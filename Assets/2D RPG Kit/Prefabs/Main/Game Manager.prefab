@@ -1,0 +1,544 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1059803243072380
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4614331974979114}
+  - component: {fileID: 114770232976062586}
+  m_Layer: 0
+  m_Name: Party Member 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4614331974979114
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1059803243072380}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4094487156371976}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114770232976062586
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1059803243072380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c76952862b77b3a498c16adc915c1bcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterName: Hollis
+  level: 1
+  maxLevel: 99
+  currentHP: 23
+  maxHP: 23
+  currentSP: 7
+  maxSP: 7
+  currentEXP: 0
+  skills:
+  - Freeze
+  firstNextLevelEXP: 17
+  multiplicationFactor: 1.06
+  manualEXP: 0
+  eXPToNextLevel: 
+  manualHpBonus: 0
+  HpLevelBonus: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  manualSpBonus: 0
+  SpLevelBonus: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  strength: 13
+  defence: 16
+  offenseStrength: 0
+  defenseStrength: 0
+  equippedOffenseItem: 
+  equippedDefenseItem: 
+  characterIamge: {fileID: 2434629766918126224, guid: 5dee9006179220145ba7295536490dbc,
+    type: 3}
+--- !u!1 &1190594902282344
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4094487156371976}
+  - component: {fileID: 114004588852274480}
+  - component: {fileID: 2196784565488470404}
+  - component: {fileID: 114145718813029494}
+  - component: {fileID: 6513260664158202414}
+  m_Layer: 0
+  m_Name: Game Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4094487156371976
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190594902282344}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 4.410368, y: -0.2842971, z: -0.048828125}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4364162826067014}
+  - {fileID: 4614331974979114}
+  - {fileID: 4946554146672954}
+  - {fileID: 2506669414600398115}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114004588852274480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190594902282344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18f511f74eb2254592c491f3e6427f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  character0: {fileID: 1674758041330280}
+  character1: {fileID: 1059803243072380}
+  character2: {fileID: 1527901407061400}
+  characterStatus:
+  - {fileID: 114805641206825704}
+  - {fileID: 114770232976062586}
+  - {fileID: 114531474561540294}
+  - {fileID: 3405794885534648430}
+  cutSceneActive: 0
+  gameMenuOpen: 0
+  dialogActive: 0
+  fadingBetweenAreas: 0
+  shopActive: 0
+  battleActive: 0
+  saveMenuActive: 0
+  innActive: 0
+  itemCharChoiceMenu: 0
+  loadPromt: 0
+  quitPromt: 0
+  itemMenu: 0
+  equipMenu: 0
+  statsMenu: 0
+  skillsMenu: 0
+  confirmCanMove: 0
+  existingItems:
+  - {fileID: 114378626586349076, guid: 26e1e121bffd9124991f910e445b649e, type: 3}
+  - {fileID: 114774137024542062, guid: a7b4b1d88b65cf34baa3634512ccd0bb, type: 3}
+  - {fileID: 114043814178531382, guid: 8767ec0556333f549998000557dcbc31, type: 3}
+  - {fileID: 114126653972101484, guid: 125c20b1bd9a1124a8ef6d3ea3522635, type: 3}
+  - {fileID: 114774137024542062, guid: a09f0bc9df97ac4429fd49e029e1d598, type: 3}
+  - {fileID: 114378626586349076, guid: 382e80eb2f5be0643be39c6de7aff433, type: 3}
+  - {fileID: 114378626586349076, guid: 843c5eb7934437041bcb637c170e5d41, type: 3}
+  itemsHeld:
+  - Ether
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  equipItemsHeld:
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  currentGold: 100
+--- !u!114 &2196784565488470404
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190594902282344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e88e933abe5a13446a3de0797707ad1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  chests:
+  - --------------------------
+  - Town
+  - Forest 2
+  - Forest 1
+  - Cave 3
+  - Cave 2 1
+  - Cave 2 2
+  - Cave 5
+  - Password
+  openedChests: 
+--- !u!114 &114145718813029494
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190594902282344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 630f1ebe0ae4c2f41a80210562d04a06, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  quests:
+  - --------------------------
+  - Talk to mom
+  - Visit shop
+  - Talk to mom again
+  - Hollis joins party
+  - Push log 2
+  - Moz joins party
+  - Switch 1
+  - Switch 2
+  - Switch 3
+  - Defeat Gourmet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  completedQuests: 
+--- !u!114 &6513260664158202414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1190594902282344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca20933c84fdd44bac88de7907eeee8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  events:
+  - --------------------------
+  - Rem wakes up
+  - Rem gets up from bed
+  - Event 1 end
+  - Go outside
+  - Forest 1
+  - Forest dialog 1
+  - Fade forest dialog 1
+  - Complete forest dialog 1
+  - Push log 1
+  - Log 1 pushed
+  - Push log 2
+  - Log 2 pushed
+  - Meet Moz
+  - Moz dialog part 1
+  - Moz dialog part 2
+  - Moz dialog 2
+  - End moz dialog 2
+  - Moz joins party
+  - Enter cave
+  - Cave fade
+  - End cave dialog 1
+  - End cave event 1
+  - End cave event 2
+  - Enter cave 4
+  - Cave fade 2
+  - End cave dialog 2
+  - End cave event 3
+  - Enter cave 5
+  - Cave fade 3
+  - End cave dialog 3
+  - End cave event 4
+  - Beat Gourmet
+  - Cave fade 4
+  - End cave dialog 4
+  - House Fade
+  completedEvents: 
+--- !u!1 &1527901407061400
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4946554146672954}
+  - component: {fileID: 114531474561540294}
+  m_Layer: 0
+  m_Name: Party Member 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4946554146672954
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1527901407061400}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4094487156371976}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114531474561540294
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1527901407061400}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c76952862b77b3a498c16adc915c1bcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterName: Moz
+  level: 3
+  maxLevel: 99
+  currentHP: 30
+  maxHP: 30
+  currentSP: 4
+  maxSP: 4
+  currentEXP: 0
+  skills:
+  - Light.
+  firstNextLevelEXP: 29
+  multiplicationFactor: 1.06
+  manualEXP: 0
+  eXPToNextLevel: 
+  manualHpBonus: 0
+  HpLevelBonus: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  manualSpBonus: 0
+  SpLevelBonus: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  strength: 20
+  defence: 14
+  offenseStrength: 0
+  defenseStrength: 0
+  equippedOffenseItem: 
+  equippedDefenseItem: 
+  characterIamge: {fileID: 8558633213039616950, guid: 5dee9006179220145ba7295536490dbc,
+    type: 3}
+--- !u!1 &1674758041330280
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4364162826067014}
+  - component: {fileID: 114805641206825704}
+  - component: {fileID: 5972835153688257000}
+  m_Layer: 0
+  m_Name: Party Member 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4364162826067014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1674758041330280}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4094487156371976}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114805641206825704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1674758041330280}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c76952862b77b3a498c16adc915c1bcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterName: Heroine
+  level: 1
+  maxLevel: 99
+  currentHP: 250
+  maxHP: 250
+  currentSP: 50
+  maxSP: 50
+  currentEXP: 0
+  skills:
+  - Flame
+  firstNextLevelEXP: 15
+  multiplicationFactor: 1.05
+  manualEXP: 0
+  eXPToNextLevel: 
+  manualHpBonus: 0
+  HpLevelBonus: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  manualSpBonus: 0
+  SpLevelBonus: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  strength: 15
+  defence: 12
+  offenseStrength: 0
+  defenseStrength: 0
+  equippedOffenseItem: 
+  equippedDefenseItem: 
+  characterIamge: {fileID: -6776916165796436163, guid: f0c4e5bb30b1a44209a6f617614e65b7,
+    type: 3}
+--- !u!61 &5972835153688257000
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1674758041330280}
+  m_Enabled: 0
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0
+--- !u!1 &5340120533975243064
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2506669414600398115}
+  - component: {fileID: 3405794885534648430}
+  - component: {fileID: 3735327650897226017}
+  m_Layer: 0
+  m_Name: Party Member 4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &2506669414600398115
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5340120533975243064}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4094487156371976}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3405794885534648430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5340120533975243064}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c76952862b77b3a498c16adc915c1bcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterName: Arima
+  level: 1
+  maxLevel: 99
+  currentHP: 25
+  maxHP: 25
+  currentSP: 5
+  maxSP: 5
+  currentEXP: 0
+  skills:
+  - Flame
+  firstNextLevelEXP: 15
+  multiplicationFactor: 1.05
+  manualEXP: 0
+  eXPToNextLevel: 
+  manualHpBonus: 0
+  HpLevelBonus: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  manualSpBonus: 0
+  SpLevelBonus: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  strength: 15
+  defence: 12
+  offenseStrength: 0
+  defenseStrength: 0
+  equippedOffenseItem: 
+  equippedDefenseItem: 
+  characterIamge: {fileID: -353497108728403294, guid: a377aef9bef384dd68b6aef7884be0f5,
+    type: 3}
+--- !u!61 &3735327650897226017
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5340120533975243064}
+  m_Enabled: 0
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1}
+  m_EdgeRadius: 0

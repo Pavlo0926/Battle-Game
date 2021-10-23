@@ -1,0 +1,2432 @@
+fileFormatVersion: 2
+guid: 6e9c524867341408bbafd816bc8678b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6250111788771454138
+    second: MINA_BATTLE_SPRITES_0
+  - first:
+      213: -5113904714304649893
+    second: MINA_BATTLE_SPRITES_1
+  - first:
+      213: 5755269558415119741
+    second: MINA_BATTLE_SPRITES_2
+  - first:
+      213: -2423409729788820880
+    second: MINA_BATTLE_SPRITES_3
+  - first:
+      213: 4271473341443005744
+    second: MINA_BATTLE_SPRITES_4
+  - first:
+      213: 1658609658279061301
+    second: MINA_BATTLE_SPRITES_5
+  - first:
+      213: -8309402350653997770
+    second: MINA_BATTLE_SPRITES_6
+  - first:
+      213: -9039832095728226567
+    second: MINA_BATTLE_SPRITES_7
+  - first:
+      213: 6983940205343339705
+    second: MINA_BATTLE_SPRITES_8
+  - first:
+      213: -5909889983257978856
+    second: MINA_BATTLE_SPRITES_9
+  - first:
+      213: -4623283233550126319
+    second: MINA_BATTLE_SPRITES_10
+  - first:
+      213: -3619042067171403871
+    second: MINA_BATTLE_SPRITES_11
+  - first:
+      213: -6670512295167656871
+    second: MINA_BATTLE_SPRITES_12
+  - first:
+      213: 7556094197613875478
+    second: MINA_BATTLE_SPRITES_13
+  - first:
+      213: 213560067966552632
+    second: MINA_BATTLE_SPRITES_14
+  - first:
+      213: 227091099127370587
+    second: MINA_BATTLE_SPRITES_15
+  - first:
+      213: 2180349468555668650
+    second: MINA_BATTLE_SPRITES_16
+  - first:
+      213: -4851812838001419641
+    second: MINA_BATTLE_SPRITES_17
+  - first:
+      213: 8209578623175324998
+    second: MINA_BATTLE_SPRITES_18
+  - first:
+      213: 378423750468413974
+    second: MINA_BATTLE_SPRITES_19
+  - first:
+      213: 2426226035080569135
+    second: MINA_BATTLE_SPRITES_20
+  - first:
+      213: -2679784586734618572
+    second: MINA_BATTLE_SPRITES_21
+  - first:
+      213: 8097595889039626477
+    second: MINA_BATTLE_SPRITES_22
+  - first:
+      213: 1570805218853869960
+    second: MINA_BATTLE_SPRITES_23
+  - first:
+      213: 3666170818531568841
+    second: MINA_BATTLE_SPRITES_24
+  - first:
+      213: 4890492298268278331
+    second: MINA_BATTLE_SPRITES_25
+  - first:
+      213: -21237409671334015
+    second: MINA_BATTLE_SPRITES_26
+  - first:
+      213: 5774576270219109211
+    second: MINA_BATTLE_SPRITES_27
+  - first:
+      213: -8494521848120602733
+    second: MINA_BATTLE_SPRITES_28
+  - first:
+      213: 6977487581576576017
+    second: MINA_BATTLE_SPRITES_29
+  - first:
+      213: 5726096431508239544
+    second: MINA_BATTLE_SPRITES_30
+  - first:
+      213: -2704978041790734330
+    second: MINA_BATTLE_SPRITES_31
+  - first:
+      213: 5285700243010482788
+    second: MINA_BATTLE_SPRITES_32
+  - first:
+      213: 5492531704434052526
+    second: MINA_BATTLE_SPRITES_33
+  - first:
+      213: -8360709602299887748
+    second: MINA_BATTLE_SPRITES_34
+  - first:
+      213: -5432671340504400868
+    second: MINA_BATTLE_SPRITES_35
+  - first:
+      213: -2344589499551085162
+    second: MINA_BATTLE_SPRITES_36
+  - first:
+      213: 5404417976189415043
+    second: MINA_BATTLE_SPRITES_37
+  - first:
+      213: 8504491249663241575
+    second: MINA_BATTLE_SPRITES_38
+  - first:
+      213: -3472437874000348389
+    second: MINA_BATTLE_SPRITES_39
+  - first:
+      213: -5096678993838359036
+    second: MINA_BATTLE_SPRITES_40
+  - first:
+      213: 6958860271632661606
+    second: MINA_BATTLE_SPRITES_41
+  - first:
+      213: 6772530378899240566
+    second: MINA_BATTLE_SPRITES_42
+  - first:
+      213: -7579513975833857965
+    second: MINA_BATTLE_SPRITES_43
+  - first:
+      213: -5793764976886831594
+    second: MINA_BATTLE_SPRITES_44
+  - first:
+      213: 3625263958029452420
+    second: MINA_BATTLE_SPRITES_45
+  - first:
+      213: -5332983579305265260
+    second: MINA_BATTLE_SPRITES_46
+  - first:
+      213: -2443441197222758964
+    second: MINA_BATTLE_SPRITES_47
+  - first:
+      213: 1597211028911267020
+    second: MINA_BATTLE_SPRITES_48
+  - first:
+      213: -5661307323055750667
+    second: MINA_BATTLE_SPRITES_49
+  - first:
+      213: -4342479740029413737
+    second: MINA_BATTLE_SPRITES_50
+  - first:
+      213: 271831450789606369
+    second: MINA_BATTLE_SPRITES_51
+  - first:
+      213: 4815172678408532596
+    second: MINA_BATTLE_SPRITES_52
+  - first:
+      213: -6681919360735947458
+    second: MINA_BATTLE_SPRITES_53
+  - first:
+      213: 6296581729219024031
+    second: MINA_BATTLE_SPRITES_54
+  - first:
+      213: -6469622537898431712
+    second: MINA_BATTLE_SPRITES_55
+  - first:
+      213: 3676828852062129386
+    second: MINA_BATTLE_SPRITES_56
+  - first:
+      213: 6783653030857578737
+    second: MINA_BATTLE_SPRITES_57
+  - first:
+      213: -1675355750585619110
+    second: MINA_BATTLE_SPRITES_58
+  - first:
+      213: -7443065542435711268
+    second: MINA_BATTLE_SPRITES_59
+  - first:
+      213: -7269999692056586743
+    second: MINA_BATTLE_SPRITES_60
+  - first:
+      213: 4509296522532044598
+    second: MINA_BATTLE_SPRITES_61
+  - first:
+      213: -4430295246000980254
+    second: MINA_BATTLE_SPRITES_62
+  - first:
+      213: 359646606332052583
+    second: MINA_BATTLE_SPRITES_63
+  - first:
+      213: 2650313066023375469
+    second: MINA_BATTLE_SPRITES_64
+  - first:
+      213: -5684548544703417668
+    second: MINA_BATTLE_SPRITES_65
+  - first:
+      213: -3947920451236227468
+    second: MINA_BATTLE_SPRITES_66
+  - first:
+      213: -5224539984739848677
+    second: MINA_BATTLE_SPRITES_67
+  - first:
+      213: -7068083271111537532
+    second: MINA_BATTLE_SPRITES_68
+  - first:
+      213: 7453771940670789378
+    second: MINA_BATTLE_SPRITES_69
+  - first:
+      213: -2178485324401394087
+    second: MINA_BATTLE_SPRITES_70
+  - first:
+      213: 8592134468858682426
+    second: MINA_BATTLE_SPRITES_71
+  - first:
+      213: 6206563243993630449
+    second: MINA_BATTLE_SPRITES_72
+  - first:
+      213: 2721540537667517565
+    second: MINA_BATTLE_SPRITES_73
+  - first:
+      213: 553339239370645978
+    second: MINA_BATTLE_SPRITES_74
+  - first:
+      213: -1838502060019048832
+    second: MINA_BATTLE_SPRITES_75
+  - first:
+      213: -2413611702647510525
+    second: MINA_BATTLE_SPRITES_76
+  - first:
+      213: -7662076900254226974
+    second: MINA_BATTLE_SPRITES_77
+  - first:
+      213: 6430546044009784700
+    second: MINA_BATTLE_SPRITES_78
+  - first:
+      213: 8095973752566741466
+    second: MINA_BATTLE_SPRITES_79
+  - first:
+      213: 2294419023287248541
+    second: MINA_BATTLE_SPRITES_80
+  - first:
+      213: -71695606810222614
+    second: MINA_BATTLE_SPRITES_81
+  - first:
+      213: -3279900959393343116
+    second: MINA_BATTLE_SPRITES_82
+  - first:
+      213: -5342784540471312864
+    second: MINA_BATTLE_SPRITES_83
+  - first:
+      213: 262365538125613462
+    second: MINA_BATTLE_SPRITES_84
+  - first:
+      213: -5561141683316346619
+    second: MINA_BATTLE_SPRITES_85
+  - first:
+      213: -72392362151036093
+    second: MINA_BATTLE_SPRITES_86
+  - first:
+      213: 4515796945084816283
+    second: MINA_BATTLE_SPRITES_87
+  - first:
+      213: 8299790048049732285
+    second: MINA_BATTLE_SPRITES_88
+  - first:
+      213: -1325865694498309235
+    second: MINA_BATTLE_SPRITES_89
+  - first:
+      213: 6894630325866861174
+    second: MINA_BATTLE_SPRITES_90
+  - first:
+      213: 2144057028961668949
+    second: MINA_BATTLE_SPRITES_91
+  - first:
+      213: -1412682779308713295
+    second: MINA_BATTLE_SPRITES_92
+  - first:
+      213: 4583395478559185843
+    second: MINA_BATTLE_SPRITES_93
+  - first:
+      213: -3131853923374288402
+    second: MINA_BATTLE_SPRITES_94
+  - first:
+      213: -708927877196911316
+    second: MINA_BATTLE_SPRITES_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 154
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc2430be8bdcb650800000000000000
+      internalID: 6250111788771454138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 154
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b550da8c1c2c709b0800000000000000
+      internalID: -5113904714304649893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 154
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75d3ffab23dedf40800000000000000
+      internalID: 5755269558415119741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 157
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07246b6c0b15e5ed0800000000000000
+      internalID: -2423409729788820880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 157
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dd2407f52574b30800000000000000
+      internalID: 4271473341443005744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 154
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53761ce42b0940710800000000000000
+      internalID: 1658609658279061301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 155
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63df87156921fac80800000000000000
+      internalID: -8309402350653997770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 158
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea1f0aa901c8280800000000000000
+      internalID: -9039832095728226567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 158
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4fe004d90fbe060800000000000000
+      internalID: 6983940205343339705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 159
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818d4464f5adbfda0800000000000000
+      internalID: -5909889983257978856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_10
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 159
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113b930f46cc6dfb0800000000000000
+      internalID: -4623283233550126319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 159
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a79d071a6496cdc0800000000000000
+      internalID: -3619042067171403871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 158
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf7a0d8649d63a0800000000000000
+      internalID: -6670512295167656871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 156
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6115a2a83a3acd860800000000000000
+      internalID: 7556094197613875478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_14
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 157
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83aca5510c7b6f200800000000000000
+      internalID: 213560067966552632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53d327c62ac62300800000000000000
+      internalID: 227091099127370587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aace8772a48224e10800000000000000
+      internalID: 2180349468555668650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_17
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 162
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ade3a0ee5eaacb0800000000000000
+      internalID: -4851812838001419641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 154
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6457106f2484ee170800000000000000
+      internalID: 8209578623175324998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 154
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aad35656e604500800000000000000
+      internalID: 378423750468413974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_20
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 161
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2128c569bfaba120800000000000000
+      internalID: 2426226035080569135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_21
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 161
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438bd11dd1e7fcad0800000000000000
+      internalID: -2679784586734618572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_22
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 160
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0ded4ee80706070800000000000000
+      internalID: 8097595889039626477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 125
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8895d19260f9cc510800000000000000
+      internalID: 1570805218853869960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 119
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc2a7c6fead0e230800000000000000
+      internalID: 3666170818531568841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e701795d48ed340800000000000000
+      internalID: 4890492298268278331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_26
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 121
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187379c30bc84bff0800000000000000
+      internalID: -21237409671334015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 121
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b536fc2d58a632050800000000000000
+      internalID: 5774576270219109211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 121
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f0af192656d1a80800000000000000
+      internalID: -8494521848120602733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_29
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 121
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c3294bcf305d060800000000000000
+      internalID: 6977487581576576017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_30
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b43ea5cd5e277f40800000000000000
+      internalID: 5726096431508239544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_31
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 119
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600e4d57dccf57ad0800000000000000
+      internalID: -2704978041790734330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 120
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462f5ddbd549a5940800000000000000
+      internalID: 5285700243010482788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_33
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 111
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadcc580c74693c40800000000000000
+      internalID: 5492531704434052526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_34
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 123
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fb7b4e9eac8fb80800000000000000
+      internalID: -8360709602299887748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 124
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c3ac703364b94b0800000000000000
+      internalID: -5432671340504400868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_36
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 124
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d8527b548567fd0800000000000000
+      internalID: -2344589499551085162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_37
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 124
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e6188f389500b40800000000000000
+      internalID: 5404417976189415043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_38
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 123
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d689b9bb5060670800000000000000
+      internalID: 8504491249663241575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_39
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 121
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bb89fb62c6fcfc0800000000000000
+      internalID: -3472437874000348389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eb11e5575f449b0800000000000000
+      internalID: -5096678993838359036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 72
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c3e342c86d29060800000000000000
+      internalID: 6958860271632661606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_42
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 80
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676b4d84f7cdcfd50800000000000000
+      internalID: 6772530378899240566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 81
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350705c623820d690800000000000000
+      internalID: -7579513975833857965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_44
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 81
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616af804379689fa0800000000000000
+      internalID: -5793764976886831594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_45
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 81
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4844f53cc568f4230800000000000000
+      internalID: 3625263958029452420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_46
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 80
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497b482a0bf6df5b0800000000000000
+      internalID: -5332983579305265260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 78
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc57bf15d27271ed0800000000000000
+      internalID: -2443441197222758964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_48
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 79
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc9799e7fe6a2610800000000000000
+      internalID: 1597211028911267020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_49
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 76
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1c1fc0cfefe61b0800000000000000
+      internalID: -5661307323055750667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_50
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 76
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79657331fa96cb3c0800000000000000
+      internalID: -4342479740029413737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_51
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 76
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3f717a34db5c300800000000000000
+      internalID: 271831450789606369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_52
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 78
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f4b40a0ee2d240800000000000000
+      internalID: 4815172678408532596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_53
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 77
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3557856ebd0543a0800000000000000
+      internalID: -6681919360735947458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_54
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 77
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f949055d8b3f16750800000000000000
+      internalID: 6296581729219024031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_55
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 76
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02be3bd44984736a0800000000000000
+      internalID: -6469622537898431712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 37
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec021b3c58b60330800000000000000
+      internalID: 3676828852062129386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_57
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 37
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f894cf7d70642e50800000000000000
+      internalID: 6783653030857578737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_58
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 57
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dafed32d0ffb8e0800000000000000
+      internalID: -1675355750585619110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 38
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd65b2ff25be4b890800000000000000
+      internalID: -7443065542435711268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_60
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 39
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90694c55cc5cb1b90800000000000000
+      internalID: -7269999692056586743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_61
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 39
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f3d64cb4d349e30800000000000000
+      internalID: 4509296522532044598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_62
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 39
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee720c42fd6482c0800000000000000
+      internalID: -4430295246000980254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 37
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764c817dea8bdf400800000000000000
+      internalID: 359646606332052583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6256eb01bdc7c420800000000000000
+      internalID: 2650313066023375469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_65
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 39
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb23d74773d6c11b0800000000000000
+      internalID: -5684548544703417668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 39
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476909e344b2639c0800000000000000
+      internalID: -3947920451236227468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_67
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 42
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ea1ce8094be77b0800000000000000
+      internalID: -5224539984739848677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_68
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 37
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c048696bf19ed90800000000000000
+      internalID: -7068083271111537532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_69
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 37
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207d478961e117760800000000000000
+      internalID: 7453771940670789378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_70
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 37
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e37aab32774c1e0800000000000000
+      internalID: -2178485324401394087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_71
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 37
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c16beb6c46d3770800000000000000
+      internalID: 8592134468858682426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_72
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 37
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f68c3af264222650800000000000000
+      internalID: 6206563243993630449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_73
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 37
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c7f7d13bad4c520800000000000000
+      internalID: 2721540537667517565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_74
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 37
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1e8f24b1bdda700800000000000000
+      internalID: 553339239370645978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_75
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 37
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9db10e145c76e0800000000000000
+      internalID: -1838502060019048832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a28fdb1f0218ed0800000000000000
+      internalID: -2413611702647510525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_77
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5ee9697a5daa590800000000000000
+      internalID: -7662076900254226974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c752ff87e83ed3950800000000000000
+      internalID: 6430546044009784700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_79
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad970a0db3daa5070800000000000000
+      internalID: 8095973752566741466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d966fe002f967df10800000000000000
+      internalID: 2294419023287248541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_81
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefde18b939410ff0800000000000000
+      internalID: -71695606810222614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_82
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47995e084737b72d0800000000000000
+      internalID: -3279900959393343116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_83
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 20
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e32c984cd9ad5b0800000000000000
+      internalID: -5342784540471312864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_84
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699084d111c14a300800000000000000
+      internalID: 262365538125613462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501bf4c6a1bd2d2b0800000000000000
+      internalID: -5561141683316346619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_86
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b3989b78fcefef0800000000000000
+      internalID: -72392362151036093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_87
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b139555655bae30800000000000000
+      internalID: 4515796945084816283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_88
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba93541317ce2370800000000000000
+      internalID: 8299790048049732285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_89
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b3d83fc24999de0800000000000000
+      internalID: -1325865694498309235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_90
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6721ee680c5aeaf50800000000000000
+      internalID: 6894630325866861174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_91
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f8075128831cd10800000000000000
+      internalID: 2144057028961668949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_92
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba1ef63f74256ce0800000000000000
+      internalID: -1412682779308713295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_93
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 3
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbd6a467ed7b9f30800000000000000
+      internalID: 4583395478559185843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_94
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1bcd0337b6984d0800000000000000
+      internalID: -3131853923374288402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MINA_BATTLE_SPRITES_95
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d6e4c0ad16926f0800000000000000
+      internalID: -708927877196911316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

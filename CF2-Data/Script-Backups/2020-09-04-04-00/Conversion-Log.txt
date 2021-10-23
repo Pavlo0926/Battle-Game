@@ -1,0 +1,25 @@
+Converting script [1 / 1]	[/2D RPG Kit/Scripts/PlayerController.cs]
+	Fragments : 16
+		[ 0] : Line:   52	InputMethod   GetAxis             	("Horizontal")
+		[ 1] : Line:   52	InputMethod   GetAxis             	("Vertical")
+		[ 2] : Line:   63	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 3] : Line:   63	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 4] : Line:   63	InputMethod   GetAxisRaw          	("Vertical")
+		[ 5] : Line:   63	InputMethod   GetAxisRaw          	("Vertical")
+		[ 6] : Line:   67	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 7] : Line:   68	InputMethod   GetAxisRaw          	("Vertical")
+		[ 8] : Line:   79	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 9] : Line:   79	InputMethod   GetAxisRaw          	("Vertical")
+		[10] : Line:   91	InputMethod   GetAxisRaw          	("Horizontal")
+		[11] : Line:   91	InputMethod   GetAxisRaw          	("Horizontal")
+		[12] : Line:   91	InputMethod   GetAxisRaw          	("Vertical")
+		[13] : Line:   91	InputMethod   GetAxisRaw          	("Vertical")
+		[14] : Line:   95	InputMethod   GetAxisRaw          	("Horizontal")
+		[15] : Line:   96	InputMethod   GetAxisRaw          	("Vertical")
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [/Users/imrankhalil/Documents/Workspace/Battle/CF2-Data/Script-Backups/2020-09-04-04-00/Assets-After//2D RPG Kit/Scripts/PlayerController.cs] to [/Users/imrankhalil/Documents/Workspace/Battle/Assets//2D RPG Kit/Scripts/PlayerController.cs]
+
+Overwriting COMPLETED!

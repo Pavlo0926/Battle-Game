@@ -1,0 +1,1856 @@
+fileFormatVersion: 2
+guid: 674863382605040488bef9729aad4688
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6844078414374773220
+    second: orthosprites_0
+  - first:
+      213: 8090080146533234871
+    second: orthosprites_1
+  - first:
+      213: -421454314828277603
+    second: orthosprites_2
+  - first:
+      213: -1400350132816968329
+    second: orthosprites_3
+  - first:
+      213: 8501547070189346460
+    second: orthosprites_4
+  - first:
+      213: -1724810303947004096
+    second: orthosprites_5
+  - first:
+      213: 5144146386229210814
+    second: orthosprites_6
+  - first:
+      213: 1422647498936307218
+    second: orthosprites_7
+  - first:
+      213: -5860639218312403471
+    second: orthosprites_8
+  - first:
+      213: -8024209978928746525
+    second: orthosprites_9
+  - first:
+      213: 4932279312949904499
+    second: orthosprites_10
+  - first:
+      213: -2428472450470223748
+    second: orthosprites_11
+  - first:
+      213: 6890945456651282914
+    second: orthosprites_12
+  - first:
+      213: 6715735826528170982
+    second: orthosprites_13
+  - first:
+      213: -3454988145263538032
+    second: orthosprites_14
+  - first:
+      213: 9092470676743102212
+    second: orthosprites_15
+  - first:
+      213: 8873177742728273630
+    second: orthosprites_16
+  - first:
+      213: -7274245154043512674
+    second: orthosprites_17
+  - first:
+      213: -4179427927140735066
+    second: orthosprites_18
+  - first:
+      213: 7378265900075478127
+    second: orthosprites_19
+  - first:
+      213: 8519472489129462594
+    second: orthosprites_20
+  - first:
+      213: -1300863192533899306
+    second: orthosprites_21
+  - first:
+      213: -1097678063801864650
+    second: orthosprites_22
+  - first:
+      213: 6066881160513173660
+    second: orthosprites_23
+  - first:
+      213: -7205264002306488997
+    second: orthosprites_24
+  - first:
+      213: -3833025273210332263
+    second: orthosprites_25
+  - first:
+      213: 8234393232143982651
+    second: orthosprites_26
+  - first:
+      213: 2372260712723981095
+    second: orthosprites_27
+  - first:
+      213: -7974796632630426861
+    second: orthosprites_28
+  - first:
+      213: -5283501907374852310
+    second: orthosprites_29
+  - first:
+      213: -4959252881239489141
+    second: orthosprites_30
+  - first:
+      213: -4779159723175109364
+    second: orthosprites_31
+  - first:
+      213: 3961686367505076408
+    second: orthosprites_32
+  - first:
+      213: -3512672458478778243
+    second: orthosprites_33
+  - first:
+      213: 4951317979594212006
+    second: orthosprites_34
+  - first:
+      213: -7574160855129217547
+    second: orthosprites_35
+  - first:
+      213: -4467281062386905218
+    second: orthosprites_36
+  - first:
+      213: 8415628457386041267
+    second: orthosprites_37
+  - first:
+      213: -5288553869529327863
+    second: orthosprites_38
+  - first:
+      213: -4115136764128518768
+    second: orthosprites_39
+  - first:
+      213: 4960560085923917849
+    second: orthosprites_40
+  - first:
+      213: -8911256319647470674
+    second: orthosprites_41
+  - first:
+      213: -3713942153657027059
+    second: orthosprites_42
+  - first:
+      213: -7554170100944488400
+    second: orthosprites_43
+  - first:
+      213: -8954466563982283236
+    second: orthosprites_44
+  - first:
+      213: -6301830295871509397
+    second: orthosprites_45
+  - first:
+      213: 5940059116859457917
+    second: orthosprites_46
+  - first:
+      213: -8632196982124978163
+    second: orthosprites_47
+  - first:
+      213: -1652183189587723196
+    second: orthosprites_48
+  - first:
+      213: -2781641499544338485
+    second: orthosprites_49
+  - first:
+      213: 1106382347775577574
+    second: orthosprites_50
+  - first:
+      213: -5523416227122676008
+    second: orthosprites_51
+  - first:
+      213: -1741645091691548567
+    second: orthosprites_52
+  - first:
+      213: 1294571450495651526
+    second: orthosprites_53
+  - first:
+      213: 83994789528816011
+    second: orthosprites_54
+  - first:
+      213: -4292037554733105910
+    second: orthosprites_55
+  - first:
+      213: -1615037839716085750
+    second: orthosprites_56
+  - first:
+      213: 2594569791318226370
+    second: orthosprites_57
+  - first:
+      213: -7675518020491736451
+    second: orthosprites_58
+  - first:
+      213: -6271130168905124293
+    second: orthosprites_59
+  - first:
+      213: -671930820490816649
+    second: orthosprites_60
+  - first:
+      213: 8767464520670673316
+    second: orthosprites_61
+  - first:
+      213: 1874050137294337550
+    second: orthosprites_62
+  - first:
+      213: -5000469693302853427
+    second: orthosprites_63
+  - first:
+      213: -1391662414016064618
+    second: orthosprites_64
+  - first:
+      213: 9042938452584985750
+    second: orthosprites_65
+  - first:
+      213: -7841844710199401060
+    second: orthosprites_66
+  - first:
+      213: -3123522794057231260
+    second: orthosprites_67
+  - first:
+      213: 3857809194265705390
+    second: orthosprites_68
+  - first:
+      213: 6439296006220523657
+    second: orthosprites_69
+  - first:
+      213: -6159868463637173769
+    second: orthosprites_70
+  - first:
+      213: -5448891579231174469
+    second: orthosprites_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orthosprites_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 288
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ed54091f2f401a0800000000000000
+      internalID: -6844078414374773220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 288
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8bd8ab70db54070800000000000000
+      internalID: 8090080146533234871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 288
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98da9b9881b62af0800000000000000
+      internalID: -421454314828277603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 291
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775064c39f4f09ce0800000000000000
+      internalID: -1400350132816968329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 288
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e16e764009bf570800000000000000
+      internalID: 8501547070189346460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 288
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0472e40ca2e3018e0800000000000000
+      internalID: -1724810303947004096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_6
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 291
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe2dc722eda36740800000000000000
+      internalID: 5144146386229210814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_7
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 288
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e42bedc524eb310800000000000000
+      internalID: 1422647498936307218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_8
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 291
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f524c39ea3daaea0800000000000000
+      internalID: -5860639218312403471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 291
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efaecac98744a090800000000000000
+      internalID: -8024209978928746525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 288
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374036d17e9f27440800000000000000
+      internalID: 4932279312949904499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_11
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 291
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7066e24c255c4ed0800000000000000
+      internalID: -2428472450470223748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_12
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 291
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9aa4e026e81af50800000000000000
+      internalID: 6890945456651282914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_13
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 291
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e373991726133d50800000000000000
+      internalID: 6715735826528170982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_14
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 288
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0909162569a6d00d0800000000000000
+      internalID: -3454988145263538032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_15
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 291
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f9de118e1fe2e70800000000000000
+      internalID: 9092470676743102212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_16
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 291
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede9838152cd32b70800000000000000
+      internalID: 8873177742728273630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_17
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 288
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983120b290bc0b90800000000000000
+      internalID: -7274245154043512674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7ed6e9170bff5c0800000000000000
+      internalID: -4179427927140735066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_19
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 192
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c60609ebdd46660800000000000000
+      internalID: 7378265900075478127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_20
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 192
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b464c371f3b3670800000000000000
+      internalID: 8519472489129462594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 195
+        width: 42
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7e2a391d762fde0800000000000000
+      internalID: -1300863192533899306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_22
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 192
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ee951ed9344c0f0800000000000000
+      internalID: -1097678063801864650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_23
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 192
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98b5e29544e13450800000000000000
+      internalID: 6066881160513173660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_24
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 192
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55cc95a092c10c90800000000000000
+      internalID: -7205264002306488997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_25
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 192
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b143f72db5ecac0800000000000000
+      internalID: -3833025273210332263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_26
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 192
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30a2d65401764270800000000000000
+      internalID: 8234393232143982651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_27
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 192
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7232788ac86fbe020800000000000000
+      internalID: 2372260712723981095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_28
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 192
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313051407b4d35190800000000000000
+      internalID: -7974796632630426861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_29
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 192
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27b2d8220b3da6b0800000000000000
+      internalID: -5283501907374852310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_30
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 195
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85436e97c13d2bb0800000000000000
+      internalID: -4959252881239489141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_31
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 195
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1b478d830dadb0800000000000000
+      internalID: -4779159723175109364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_32
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 192
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0d5a6e2ccbaf630800000000000000
+      internalID: 3961686367505076408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_33
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 195
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78031c820b704fc0800000000000000
+      internalID: -3512672458478778243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_34
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 195
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2c7bf187d96b440800000000000000
+      internalID: 4951317979594212006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_35
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 192
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5aa56f4dc23e690800000000000000
+      internalID: -7574160855129217547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f499cda870102c0800000000000000
+      internalID: -4467281062386905218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_37
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 96
+        width: 36
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd92c7e715ac470800000000000000
+      internalID: 8415628457386041267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_38
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 96
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907df2f86484b96b0800000000000000
+      internalID: -5288553869529327863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_39
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 96
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d18fb7ae814e6c0800000000000000
+      internalID: -4115136764128518768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_40
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 96
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910f970bd1377d440800000000000000
+      internalID: 4960560085923917849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 96
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab25f4579bd45480800000000000000
+      internalID: -8911256319647470674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_42
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 96
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d067ceed94d657cc0800000000000000
+      internalID: -3713942153657027059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_43
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 96
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b35021523a2790800000000000000
+      internalID: -7554170100944488400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_44
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 96
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e29b45a185bb380800000000000000
+      internalID: -8954466563982283236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_45
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 96
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ca8c30cb66b88a0800000000000000
+      internalID: -6301830295871509397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_46
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 96
+        width: 51
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d718a358b445f6250800000000000000
+      internalID: 5940059116859457917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_47
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 96
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00ed318496443880800000000000000
+      internalID: -8632196982124978163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_48
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 96
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c70c884244219e0800000000000000
+      internalID: -1652183189587723196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_49
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 99
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfbc2f3bcf9569d0800000000000000
+      internalID: -2781641499544338485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_50
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 96
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed0de822e8aa5f00800000000000000
+      internalID: 1106382347775577574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_51
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 96
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de79bba432e853b0800000000000000
+      internalID: -5523416227122676008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_52
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 96
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9603ce8440f64d7e0800000000000000
+      internalID: -1741645091691548567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_53
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 96
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cec72310ed37f110800000000000000
+      internalID: 1294571450495651526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_54
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8949d8e0d86a2100800000000000000
+      internalID: 83994789528816011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_55
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d3f7b859e9f64c0800000000000000
+      internalID: -4292037554733105910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_56
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0098e044ab3699e0800000000000000
+      internalID: -1615037839716085750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_57
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 0
+        width: 42
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c57b748a73c10420800000000000000
+      internalID: 2594569791318226370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_58
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 33
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a0b79e6051b7590800000000000000
+      internalID: -7675518020491736451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_59
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36bc26565878f8a0800000000000000
+      internalID: -6271130168905124293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_60
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77312039a72dca6f0800000000000000
+      internalID: -671930820490816649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_61
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a97a6f878a4ca970800000000000000
+      internalID: 8767464520670673316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_62
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 3
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0673b4bba6f10a10800000000000000
+      internalID: 1874050137294337550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_63
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0b39cbe43ca9ab0800000000000000
+      internalID: -5000469693302853427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_64
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 0
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935f456862dface0800000000000000
+      internalID: -1391662414016064618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_65
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6947c007c98fe7d70800000000000000
+      internalID: 9042938452584985750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_66
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 0
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95e9c0b8cb2c2390800000000000000
+      internalID: -7841844710199401060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_67
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 3
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4641264619407a4d0800000000000000
+      internalID: -3123522794057231260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_68
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 0
+        width: 39
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab717bc501b98530800000000000000
+      internalID: 3857809194265705390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_69
+      rect:
+        serializedVersion: 2
+        x: 1095
+        y: 0
+        width: 42
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988ad5ec999fc5950800000000000000
+      internalID: 6439296006220523657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_70
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 0
+        width: 45
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f966c9c440c38aa0800000000000000
+      internalID: -6159868463637173769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orthosprites_71
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb00f486af5a164b0800000000000000
+      internalID: -5448891579231174469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

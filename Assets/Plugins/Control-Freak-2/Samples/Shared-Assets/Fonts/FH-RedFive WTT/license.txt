@@ -1,0 +1,222 @@
+End User License Agreement For Fonthead Design Fonts
+
+Read This Agreement Before Using The Software
+
+Font Software - 5 Workstation License
+
+Our software license agreement (the "Agreement") for
+Fonthead Design software (such software including the Fonthead Design
+fonts and images being referred to herein as the "Software") is
+printed in this document so you can read it before using the
+software. 
+
+BY USING THE SOFTWARE YOU ACCEPT THE TERMS
+AND CONDITIONS OF THIS SOFTWARE LICENSE
+AGREEMENT. IF YOU DO NOT AGREE WITH THE TERMS
+AND CONDITIONS OF THIS SOFTWARE LICENSE
+AGREEMENT, DO NOT USE THE SOFTWARE, PROMPTLY
+RETURN THE ENTIRE PACKAGE INCLUDING THE
+UNUSED SOFTWARE, ALONG WITH YOUR ORIGINAL
+RECEIPT, TO YOUR PLACE OF PURCHASE FOR A FULL
+REFUND OF YOUR PURCHASE PRICE. 
+
+In return for our granting to you a license to use the Software
+contained in this package and the documentation included with
+it, you agree to the following terms and conditions:
+
+
+1. Grant of License:
+
+1.1 Standard Rights and Restrictions. The Software is the
+intellectual property of Fonthead Design ("Fonthead") and
+its licensors, and is protected by law, including United States
+copyright laws and international treaties.
+
+
+Fonthead grants to you a non-exclusive, non-transferable license
+to: (a) install the Software at a single location on a
+hard disk or other storage device for use on the number of workstations
+indicated at the beginning of this License Agreement ("Permitted Number of
+Workstations"); or Provided the Software is configured for network use,
+install and use the Software on a single file server for use on a single
+local area network for either (but not both) of the following purposes;
+(1) permanent installation onto a hard disk or other storage device for
+use on the Permitted Number of Workstations; or (2) use of the Software
+over such network, provided the number of different workstations on which
+the Software is used does not exceed being used on the Permitted Number
+of Workstations. 
+
+Make one backup copy of the Software. 
+
+You may use the font Software as described
+above on the Permitted Number of Workstations and may output such font
+Software on any output device connected to such workstations. In
+addition, if the Number of Permitted Workstations is five or less, you may
+download the font Software to the memory (hard disk or RAM) of one output
+device connected to at least one of such workstations for the purpose of
+having such font product remain resident in the output device, and of one
+additional such output device for every multiple Number of Permitted
+Workstations. 
+
+You may give a copy of this Software to any service bureau which you hire
+to output your film, paper or colour proofs, provided that they do not use
+the font Software for any purpose other than outputing your work. They may
+keep the font Software on file for use with future jobs on your behalf.
+
+If there are illustrations or images in the font Software other than letterforms,
+numbers, punctuation marks, diacritics, etc, you may NOT use the font
+Software in a manner where the illustration or image becomes the
+primary aspect of a product for resale. For example, if an image was used on a
+coffee cup, to sell the coffee cup, or on a t-shirt to sell the t-shirt or on a
+greeting card to sell the greeting card, etc. 
+
+If the font Software is needed to be used on more than the Permitted
+Number of Workstations, or for other purposes, additional licensing may be
+required and you must contact Fonthead Design for more information. 
+
+
+2. Proprietary Rights. This Software is licensed, not sold, to
+you by Fonthead, for use only under the terms of this Agreement.
+As a licensee, you own the magnetic and/or optical media on
+which the Software is recorded, but Fonthead retains title to and
+ownership of the Software itself, and all copies of the Software,
+including the copy(ies) contained in this package.
+
+
+3. No Other Rights. Except as stated above, this Agreement
+does not grant you any other right to patents, copyrights, trade
+secrets, trade names, trademarks (whether registered or
+unregistered), or any other rights, franchises, or licenses with
+respect to the Software and documentation.
+
+
+4. No Reverse Compilation. Except as specifically stated in
+Section 1, above, YOU MAY NOT MODIFY, TRANSLATE,
+DISASSEMBLE, OR DECOMPILE THE SOFTWARE OR ANY
+COPY, IN WHOLE OR IN PART without express permission
+from Fonthead Design.
+
+
+5. Term. This license is effective until terminated. You may
+terminate this license at any time by destroying the Software
+and its documentation together with all copies or modifications
+in any form. Fonthead will have the right to terminate your
+license immediately if you fail to comply with any term or
+condition of this Agreement. You agree that, upon any such
+termination, you will destroy the Software and its
+documentation together with all copies or modifications in any
+form.
+
+
+6. Limited Warranty. Fonthead warrants to you that the
+Software will perform substantially as described in this user
+manual for a period of ninety (90) days from the date of
+purchase. If the magnetic and/or optical recording media
+contained in this package are defective, Fonthead will replace it
+at no charge to you if you return it to Fonthead at the address
+below, with proof of purchase, within (90) days after you
+purchase it. Your sole and exclusive remedy, and Fonthead's
+sole and exclusive liability, will be either replacement of the
+disk or a refund of the purchase price in accordance with this
+limited warranty. If for any reason you are dissatisfied with the
+Software, please return it to the place of purchase within ninety
+(90) days after you purchased it, along with original receipt, for
+a full refund of your purchase price. 
+
+THE LIMITED WARRANTY STATED ABOVE IS THE ONLY
+WARRANTY OR REPRESENTATION OF ANY KIND WITH
+RESPECT TO THE SOFTWARE MADE BY FONTHEAD OR
+ANY THIRD PARTY INVOLVED IN THE CREATION,
+PRODUCTION, DELIVERY, OR LICENSING OF THE
+SOFTWARE.
+
+FONTHEAD AND ANY THIRD PARTY INVOLVED IN THE
+CREATION, PRODUCTION, DELIVERY, OR LICENSING OF
+THE SOFTWARE DISCLAIM ALL WARRANTIES, EXPRESS
+OR IMPLIED, WITH RESPECT TO THE SOFTWARE, ITS
+QUALITY, RELIABILITY, OR PERFORMANCE; OR ITS
+MERCHANTABILITY, NON-INFRINGEMENT OF THIRD
+PARTY RIGHTS, OR FITNESS FOR A PARTICULAR
+PURPOSE.
+
+
+7. Limit of Liability. IN NO EVENT SHALL FONTHEAD OR
+ANY THIRD PARTY INVOLVED IN THE CREATION,
+PRODUCTION, DELIVERY, OR LICENSING OF THE
+SOFTWARE BE LIABLE TO YOU OR ANY THIRD PARTY
+FOR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL,
+DIRECT, OR INDIRECT DAMAGES OF ANY KIND ARISING
+OUT OF THE USE OF THE SOFTWARE OR ANY DEFECT IN
+THE SOFTWARE, EVEN IF FONTHEAD OR ANY THIRD
+PARTY INVOLVED IN THE CREATION, PRODUCTION,
+DELIVERY, OR LICENSING OF THE SOFTWARE HAS
+BEEN ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGES. In the event any liability is imposed on Fonthead or
+any third party involved in the creation, production, delivery or
+licensing of the Software, Fonthead's or such third party's
+liability to you or any third party shall not exceed the purchase
+price paid for this product.
+
+Some states do not allow limitations on the duration of an
+implied warranty or exclusion or limitation on liability for
+incidental or consequential damages; therefore, the limitations
+set forth in this warranty may not apply to you. This warranty
+gives you specific legal rights, and you may also have other
+rights that vary from state to state.
+
+
+8. Export. You acknowledge that the laws and regulations of
+the United States restrict the export and re-export of
+commodities and technical data of United States origin,
+including the Software and any medium containing it. You
+agree that you will not export or re-export the Software or media
+in any form without the appropriate United States and foreign
+government license. You also agree that your obligations
+pursuant to this Section 8 will survive and continue after any
+termination of rights under this Agreement. 
+
+
+9. U.S. Government Restricted Rights. The Software and
+documentation are provided with RESTRICTED RIGHTS. Use,
+duplication or disclosure by the government is subject to
+restrictions set forth in subdivision (c)(1)(iii) of the Rights in
+Technical Data and Computer Software clause at 48 CFR
+252.227-7013, or in subdivision (c)(1) or (2) of the Commercial
+Computer Software - Restricted Rights clause at 48 CFR
+52.227-19, as applicable. The contractor/manufacturer is
+Fonthead Design, 1872-B Darryl Dr, Tallahassee, Florida 32301.
+
+
+10. Choice of Law. This Agreement will be governed by the
+laws of the State of Florida as applied to transactions taking
+place wholly within Florida between Florida residents.
+
+
+11. Integration. YOU ACKNOWLEDGE THAT YOU HAVE
+READ THIS AGREEMENT AND UNDERSTAND IT AND
+THAT BY USING THE SOFTWARE YOU WILL BE BOUND
+BY ITS TERMS AND CONDITIONS. YOU FURTHER AGREE
+THAT IT IS THE COMPLETE AND EXCLUSIVE
+STATEMENT OF THE AGREEMENT BETWEEN FONTHEAD
+AND YOU WHICH SUPERSEDES ANY PROPOSAL OR
+PRIOR AGREEMENT, ORAL OR WRITTEN, AND ANY
+OTHER COMMUNICATIONS BETWEEN FONTHEAD AND
+YOU RELATING TO THE SUBJECT MATTER OF THIS
+AGREEMENT. NO VARIATION OF THE TERMS OF THIS
+AGREEMENT OR ANY DIFFERENT TERMS WILL BE
+ENFORCEABLE AGAINST FONTHEAD UNLESS FONTHEAD
+GIVES ITS EXPRESS CONSENT, INCLUDING AN EXPRESS
+WAIVER OF THE TERMS OF THIS AGREEMENT, IN
+WRITING, SIGNED BY FONTHEAD. IF ANY PROVISION OF
+THIS AGREEMENT IS HELD UNENFORCEABLE, THAT
+PROVISION WILL BE ENFORCED TO THE MAXIMUM
+EXTENT POSSIBLE AND THE REMAINING PROVISIONS OF
+THIS AGREEMENT WILL REMAIN IN FULL FORCE AND
+EFFECT.
+
+Fonthead is a trademark of Fonthead Design. 
+All other trademarks are the property of their
+respective owners, and may be registered in the United States
+and/or other jurisdictions. Direct any questions concerning this
+Agreement, in writing, to: Fonthead Design, 1872-B Darryl Dr,
+Tallahassee, Florida, 32301. Telephone: 904/877-8442.

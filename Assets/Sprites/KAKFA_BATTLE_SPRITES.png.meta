@@ -1,0 +1,2288 @@
+fileFormatVersion: 2
+guid: b3f0556813ed14e7395199dfc9ac14a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8600311608618145144
+    second: KAKFA_BATTLE_SPRITES_0
+  - first:
+      213: 4818301221433902669
+    second: KAKFA_BATTLE_SPRITES_1
+  - first:
+      213: 1014682921635131860
+    second: KAKFA_BATTLE_SPRITES_2
+  - first:
+      213: -8924798200570278853
+    second: KAKFA_BATTLE_SPRITES_3
+  - first:
+      213: -2648904874103855531
+    second: KAKFA_BATTLE_SPRITES_4
+  - first:
+      213: -1441500519823819433
+    second: KAKFA_BATTLE_SPRITES_5
+  - first:
+      213: -799448718352699129
+    second: KAKFA_BATTLE_SPRITES_6
+  - first:
+      213: 3418520254026337397
+    second: KAKFA_BATTLE_SPRITES_7
+  - first:
+      213: -2346090518146116012
+    second: KAKFA_BATTLE_SPRITES_8
+  - first:
+      213: 5814463080259357013
+    second: KAKFA_BATTLE_SPRITES_9
+  - first:
+      213: -409289425960367604
+    second: KAKFA_BATTLE_SPRITES_10
+  - first:
+      213: -6054099388034362960
+    second: KAKFA_BATTLE_SPRITES_11
+  - first:
+      213: -4547444919816153319
+    second: KAKFA_BATTLE_SPRITES_12
+  - first:
+      213: -5167877683311617778
+    second: KAKFA_BATTLE_SPRITES_13
+  - first:
+      213: 9159397948922003764
+    second: KAKFA_BATTLE_SPRITES_14
+  - first:
+      213: -4988156099975188838
+    second: KAKFA_BATTLE_SPRITES_15
+  - first:
+      213: -145116037319541938
+    second: KAKFA_BATTLE_SPRITES_16
+  - first:
+      213: 6867924881351100615
+    second: KAKFA_BATTLE_SPRITES_17
+  - first:
+      213: 6686184321621721337
+    second: KAKFA_BATTLE_SPRITES_18
+  - first:
+      213: -4658208036318125147
+    second: KAKFA_BATTLE_SPRITES_19
+  - first:
+      213: -1433456105799174174
+    second: KAKFA_BATTLE_SPRITES_20
+  - first:
+      213: 1764758991476371034
+    second: KAKFA_BATTLE_SPRITES_21
+  - first:
+      213: 7920085349207447666
+    second: KAKFA_BATTLE_SPRITES_22
+  - first:
+      213: -1287328080815223048
+    second: KAKFA_BATTLE_SPRITES_23
+  - first:
+      213: 7105500880078933882
+    second: KAKFA_BATTLE_SPRITES_24
+  - first:
+      213: 2977629267739450481
+    second: KAKFA_BATTLE_SPRITES_25
+  - first:
+      213: -4051960335625618252
+    second: KAKFA_BATTLE_SPRITES_26
+  - first:
+      213: 5124762971640225332
+    second: KAKFA_BATTLE_SPRITES_27
+  - first:
+      213: -9139790015420593495
+    second: KAKFA_BATTLE_SPRITES_28
+  - first:
+      213: -5982225711664121662
+    second: KAKFA_BATTLE_SPRITES_29
+  - first:
+      213: -3181926197273022996
+    second: KAKFA_BATTLE_SPRITES_30
+  - first:
+      213: 4486756487879637607
+    second: KAKFA_BATTLE_SPRITES_31
+  - first:
+      213: -7133305933615379616
+    second: KAKFA_BATTLE_SPRITES_32
+  - first:
+      213: -2212904252478578961
+    second: KAKFA_BATTLE_SPRITES_33
+  - first:
+      213: 2662875991964612255
+    second: KAKFA_BATTLE_SPRITES_34
+  - first:
+      213: -6236224187052268083
+    second: KAKFA_BATTLE_SPRITES_35
+  - first:
+      213: -4052911996277340613
+    second: KAKFA_BATTLE_SPRITES_36
+  - first:
+      213: 5555809719903545634
+    second: KAKFA_BATTLE_SPRITES_37
+  - first:
+      213: 1225572401555041242
+    second: KAKFA_BATTLE_SPRITES_38
+  - first:
+      213: 4468488516789215609
+    second: KAKFA_BATTLE_SPRITES_39
+  - first:
+      213: -1829626563060534115
+    second: KAKFA_BATTLE_SPRITES_40
+  - first:
+      213: -4321771912739554194
+    second: KAKFA_BATTLE_SPRITES_41
+  - first:
+      213: 6978219044331788329
+    second: KAKFA_BATTLE_SPRITES_42
+  - first:
+      213: -5197469511798267517
+    second: KAKFA_BATTLE_SPRITES_43
+  - first:
+      213: 8971940540469004505
+    second: KAKFA_BATTLE_SPRITES_44
+  - first:
+      213: -6257977274660213258
+    second: KAKFA_BATTLE_SPRITES_45
+  - first:
+      213: -7355757020832126792
+    second: KAKFA_BATTLE_SPRITES_46
+  - first:
+      213: -2855961955848208425
+    second: KAKFA_BATTLE_SPRITES_47
+  - first:
+      213: -4730373564342200160
+    second: KAKFA_BATTLE_SPRITES_48
+  - first:
+      213: -6225677314837625949
+    second: KAKFA_BATTLE_SPRITES_49
+  - first:
+      213: 9114533297941748997
+    second: KAKFA_BATTLE_SPRITES_50
+  - first:
+      213: 6125908461870538703
+    second: KAKFA_BATTLE_SPRITES_51
+  - first:
+      213: 4085071534664973489
+    second: KAKFA_BATTLE_SPRITES_52
+  - first:
+      213: -1362666393145919999
+    second: KAKFA_BATTLE_SPRITES_53
+  - first:
+      213: 9167351525781643759
+    second: KAKFA_BATTLE_SPRITES_54
+  - first:
+      213: -1144913690416593399
+    second: KAKFA_BATTLE_SPRITES_55
+  - first:
+      213: 6842341482928635198
+    second: KAKFA_BATTLE_SPRITES_56
+  - first:
+      213: -8901851601431935501
+    second: KAKFA_BATTLE_SPRITES_57
+  - first:
+      213: 619126122613071419
+    second: KAKFA_BATTLE_SPRITES_58
+  - first:
+      213: -3241839617441887503
+    second: KAKFA_BATTLE_SPRITES_59
+  - first:
+      213: -2280364715479795242
+    second: KAKFA_BATTLE_SPRITES_60
+  - first:
+      213: -5338955248733662719
+    second: KAKFA_BATTLE_SPRITES_61
+  - first:
+      213: 4739809723887980851
+    second: KAKFA_BATTLE_SPRITES_62
+  - first:
+      213: -2070721931027371259
+    second: KAKFA_BATTLE_SPRITES_63
+  - first:
+      213: 7494706750625049040
+    second: KAKFA_BATTLE_SPRITES_64
+  - first:
+      213: 4337016957605973854
+    second: KAKFA_BATTLE_SPRITES_65
+  - first:
+      213: -841408356026100002
+    second: KAKFA_BATTLE_SPRITES_66
+  - first:
+      213: -5703715414373392021
+    second: KAKFA_BATTLE_SPRITES_67
+  - first:
+      213: 8646979761811493434
+    second: KAKFA_BATTLE_SPRITES_68
+  - first:
+      213: -2489306791155124609
+    second: KAKFA_BATTLE_SPRITES_69
+  - first:
+      213: 4135892132317006539
+    second: KAKFA_BATTLE_SPRITES_70
+  - first:
+      213: 6113505035620742533
+    second: KAKFA_BATTLE_SPRITES_71
+  - first:
+      213: -3642550906796077706
+    second: KAKFA_BATTLE_SPRITES_72
+  - first:
+      213: 7547219912586975657
+    second: KAKFA_BATTLE_SPRITES_73
+  - first:
+      213: 7550413396346990989
+    second: KAKFA_BATTLE_SPRITES_74
+  - first:
+      213: 2595415042980038484
+    second: KAKFA_BATTLE_SPRITES_75
+  - first:
+      213: -6952478224826059633
+    second: KAKFA_BATTLE_SPRITES_76
+  - first:
+      213: 8262912231983856248
+    second: KAKFA_BATTLE_SPRITES_77
+  - first:
+      213: 7790087989366822755
+    second: KAKFA_BATTLE_SPRITES_78
+  - first:
+      213: 4610794207042355260
+    second: KAKFA_BATTLE_SPRITES_79
+  - first:
+      213: 2723835595919227322
+    second: KAKFA_BATTLE_SPRITES_80
+  - first:
+      213: -3477592693140098253
+    second: KAKFA_BATTLE_SPRITES_81
+  - first:
+      213: -6219933992195251254
+    second: KAKFA_BATTLE_SPRITES_82
+  - first:
+      213: 3154447631466007385
+    second: KAKFA_BATTLE_SPRITES_83
+  - first:
+      213: -1824560967974794573
+    second: KAKFA_BATTLE_SPRITES_84
+  - first:
+      213: -4917116711677913750
+    second: KAKFA_BATTLE_SPRITES_85
+  - first:
+      213: -2322040790940977950
+    second: KAKFA_BATTLE_SPRITES_86
+  - first:
+      213: 4713288772017506933
+    second: KAKFA_BATTLE_SPRITES_87
+  - first:
+      213: -7462554731698938957
+    second: KAKFA_BATTLE_SPRITES_88
+  - first:
+      213: -8859526135378829034
+    second: KAKFA_BATTLE_SPRITES_89
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aa5aa882e85a880800000000000000
+      internalID: -8600311608618145144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 220
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d460664be6b0ed240800000000000000
+      internalID: 4818301221433902669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 220
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1b7bfbdb0e41e00800000000000000
+      internalID: 1014682921635131860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 220
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c86fa725fb42480800000000000000
+      internalID: -8924798200570278853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 221
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5562d3f2d033d3bd0800000000000000
+      internalID: -2648904874103855531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 224
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3c542ae2cefbe0800000000000000
+      internalID: -1441500519823819433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 224
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701327650a9c7e4f0800000000000000
+      internalID: -799448718352699129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 225
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cc7b61f06017f20800000000000000
+      internalID: 3418520254026337397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_8
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 223
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4561df69a13017fd0800000000000000
+      internalID: -2346090518146116012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_9
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 223
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5598b7a7d5f11b050800000000000000
+      internalID: 5814463080259357013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_10
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 223
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0f438f69e15af0800000000000000
+      internalID: -409289425960367604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_11
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 222
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b15d4dbea48bfba0800000000000000
+      internalID: -6054099388034362960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_12
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 223
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91714b650fa34e0c0800000000000000
+      internalID: -4547444919816153319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 228
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09da8ba0a20848b0800000000000000
+      internalID: -5167877683311617778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_14
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 228
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43100fde7e7bc1f70800000000000000
+      internalID: 9159397948922003764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_15
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 228
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ee7c8947286cab0800000000000000
+      internalID: -4988156099975188838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_16
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 220
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3b50abb17cfdf0800000000000000
+      internalID: -145116037319541938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 220
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8cff0ba45cf4f50800000000000000
+      internalID: 6867924881351100615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_18
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 220
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f08c0137391acc50800000000000000
+      internalID: 6686184321621721337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_19
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 220
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a36361a878ba5fb0800000000000000
+      internalID: -4658208036318125147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7b9bc34475b1ce0800000000000000
+      internalID: -1433456105799174174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 191
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e2021e3fead7810800000000000000
+      internalID: 1764758991476371034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 190
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2781946a9abc9ed60800000000000000
+      internalID: 7920085349207447666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 190
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe8f995eed722ee0800000000000000
+      internalID: -1287328080815223048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_24
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 184
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f8454676fcb9260800000000000000
+      internalID: 7105500880078933882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 185
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c9a68fa0aa25920800000000000000
+      internalID: 2977629267739450481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_26
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 181
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcff0ffa8b84c7c0800000000000000
+      internalID: -4051960335625618252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 188
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ed0b245c0de1740800000000000000
+      internalID: 5124762971640225332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_28
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 189
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa8139d761f82180800000000000000
+      internalID: -9139790015420593495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 187
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c83d02196ddafca0800000000000000
+      internalID: -5982225711664121662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_30
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 187
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced280e6bf687d3d0800000000000000
+      internalID: -3181926197273022996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 187
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76abebdf049244e30800000000000000
+      internalID: 4486756487879637607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_32
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 186
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b4ba81c08610d90800000000000000
+      internalID: -7133305933615379616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_33
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 185
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee101d8e4f2a41e0800000000000000
+      internalID: -2212904252478578961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_34
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 177
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9677fd2b9f64f420800000000000000
+      internalID: 2662875991964612255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 145
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5ec0f842b7479a0800000000000000
+      internalID: -6236224187052268083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_36
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 146
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3648fb330a21c7c0800000000000000
+      internalID: -4052911996277340613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229638a11833a1d40800000000000000
+      internalID: 5555809719903545634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 144
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbe5391b9b120110800000000000000
+      internalID: 1225572401555041242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_39
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 144
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971222681a2430e30800000000000000
+      internalID: 4468488516789215609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_40
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 143
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94782da55cdb96e0800000000000000
+      internalID: -1829626563060534115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 142
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cf5e4d75bf504c0800000000000000
+      internalID: -4321771912739554194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 138
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281346af3d97d060800000000000000
+      internalID: 6978219044331788329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 145
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38167523401eed7b0800000000000000
+      internalID: -5197469511798267517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_44
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 146
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c49cd26cb28c70800000000000000
+      internalID: 8971940540469004505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_45
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 144
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd296b23d23729a0800000000000000
+      internalID: -6257977274660213258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_46
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 144
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8273746f91be990800000000000000
+      internalID: -7355757020832126792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 105
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df33a19bb59d58d0800000000000000
+      internalID: -2855961955848208425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 104
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a81c7a4e465a5eb0800000000000000
+      internalID: -4730373564342200160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_49
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 105
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a345ea9773f999a0800000000000000
+      internalID: -6225677314837625949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_50
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d994d5eb35d7e70800000000000000
+      internalID: 9114533297941748997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 102
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf5a542a49930550800000000000000
+      internalID: 6125908461870538703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_52
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 102
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcf3c9cae611b830800000000000000
+      internalID: 4085071534664973489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_53
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 104
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106bc299226d61de0800000000000000
+      internalID: -1362666393145919999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_54
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1a95954a9f83f70800000000000000
+      internalID: 9167351525781643759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 102
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906cc3880137c10f0800000000000000
+      internalID: -1144913690416593399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_56
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 122
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d71e19351e4fe50800000000000000
+      internalID: 6842341482928635198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 103
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5486de125467480800000000000000
+      internalID: -8901851601431935501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_58
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 104
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e5481ade3979800800000000000000
+      internalID: 619126122613071419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_59
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 104
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa869f3b0ca203d0800000000000000
+      internalID: -3241839617441887503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_60
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 104
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9fd778f548a50e0800000000000000
+      internalID: -2280364715479795242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_61
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 102
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d58ffc7838e5b0800000000000000
+      internalID: -5338955248733662719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_62
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 102
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331194fc4df27c140800000000000000
+      internalID: 4739809723887980851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_63
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 102
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ba088ff515343e0800000000000000
+      internalID: -2070721931027371259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_64
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 102
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d96abeb41c820860800000000000000
+      internalID: 7494706750625049040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_65
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 102
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f03f6c1fd203c30800000000000000
+      internalID: 4337016957605973854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6d404ee87b254f0800000000000000
+      internalID: -841408356026100002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_67
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 66
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61aa5adc0558d0b0800000000000000
+      internalID: -5703715414373392021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_68
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 66
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3214ca974e300870800000000000000
+      internalID: 8646979761811493434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_69
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 66
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f763b3099a4347dd0800000000000000
+      internalID: -2489306791155124609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 66
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca86104bf3a56930800000000000000
+      internalID: 4135892132317006539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_71
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 66
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5857cbc607887d450800000000000000
+      internalID: 6113505035620742533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 67
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d8424df3f037dc0800000000000000
+      internalID: -3642550906796077706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_73
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 66
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9508b068c1db860800000000000000
+      internalID: 7547219912586975657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_74
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 66
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81fc9ceaf478c860800000000000000
+      internalID: 7550413396346990989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_75
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 66
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c7810b34c40420800000000000000
+      internalID: 2595415042980038484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_76
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 66
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ba9ce3e5d38f90800000000000000
+      internalID: -6952478224826059633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_77
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 85
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ab0ad65e2cba270800000000000000
+      internalID: 8262912231983856248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_78
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 65
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3671f3fa0c3fb1c60800000000000000
+      internalID: 7790087989366822755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_79
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 66
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30403bf6e4dcff30800000000000000
+      internalID: 4610794207042355260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_80
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 65
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab974510b020dc520800000000000000
+      internalID: 2723835595919227322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_81
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 67
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333f3e3eedb1dbfc0800000000000000
+      internalID: -3477592693140098253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_82
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 67
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac323dc1dfa5ea9a0800000000000000
+      internalID: -6219933992195251254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_83
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 66
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b8a186869d6cb20800000000000000
+      internalID: 3154447631466007385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_84
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 65
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bac1d0777bdda6e0800000000000000
+      internalID: -1824560967974794573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_85
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 66
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a651d491764e2cbb0800000000000000
+      internalID: -4917116711677913750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_86
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 65
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4fefd043476cfd0800000000000000
+      internalID: -2322040790940977950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_87
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 67
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac0f38a27f86140800000000000000
+      internalID: 4713288772017506933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb9c24820eaf6890800000000000000
+      internalID: -7462554731698938957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KAKFA_BATTLE_SPRITES_89
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611a47e6be3ac0580800000000000000
+      internalID: -8859526135378829034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

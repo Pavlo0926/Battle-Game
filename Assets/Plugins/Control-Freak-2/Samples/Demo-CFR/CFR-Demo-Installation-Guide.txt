@@ -1,0 +1,11 @@
+Control Freak Racing is using assets from Unity 3.x Car Demo, but
+they are too big to be included in the Control Freak 2 package.
+
+To install the demo :
+
+1. Download and import 'Part 1' package from : http://dansgametools.blogspot.com/p/cfr-assets-download.html
+
+2. Import 'Part 2' package from /Assets/Plugins/Control-Freak-2/Samples/Demo-CFR/.
+
+3. Combined assets are now located in /Assets/Control-Freak-2-Samples-Extra/.
+

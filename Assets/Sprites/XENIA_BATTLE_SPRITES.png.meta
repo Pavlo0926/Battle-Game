@@ -1,0 +1,5768 @@
+fileFormatVersion: 2
+guid: ae126d2ad4f2e4b6e8308b945d0b2b61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6027997665729849193
+    second: XENIA_BATTLE_SPRITES_0
+  - first:
+      213: -2269844750091592514
+    second: XENIA_BATTLE_SPRITES_1
+  - first:
+      213: 5450825970009073644
+    second: XENIA_BATTLE_SPRITES_2
+  - first:
+      213: 6889218035511029257
+    second: XENIA_BATTLE_SPRITES_3
+  - first:
+      213: 240247049759486213
+    second: XENIA_BATTLE_SPRITES_4
+  - first:
+      213: -4922992703298307886
+    second: XENIA_BATTLE_SPRITES_5
+  - first:
+      213: -5329599455603910018
+    second: XENIA_BATTLE_SPRITES_6
+  - first:
+      213: -780869218919919184
+    second: XENIA_BATTLE_SPRITES_7
+  - first:
+      213: 1318166961852185726
+    second: XENIA_BATTLE_SPRITES_8
+  - first:
+      213: -7850458610481127075
+    second: XENIA_BATTLE_SPRITES_9
+  - first:
+      213: 3715310499216229544
+    second: XENIA_BATTLE_SPRITES_10
+  - first:
+      213: 5123968520834202947
+    second: XENIA_BATTLE_SPRITES_11
+  - first:
+      213: -2289675048335378605
+    second: XENIA_BATTLE_SPRITES_12
+  - first:
+      213: 2049113340663056847
+    second: XENIA_BATTLE_SPRITES_13
+  - first:
+      213: -5855228191983038638
+    second: XENIA_BATTLE_SPRITES_14
+  - first:
+      213: 4181919340215293345
+    second: XENIA_BATTLE_SPRITES_15
+  - first:
+      213: -4420454596965075099
+    second: XENIA_BATTLE_SPRITES_16
+  - first:
+      213: -2918949512254104299
+    second: XENIA_BATTLE_SPRITES_17
+  - first:
+      213: 956740121140634723
+    second: XENIA_BATTLE_SPRITES_18
+  - first:
+      213: 8315027218367727412
+    second: XENIA_BATTLE_SPRITES_19
+  - first:
+      213: -5180225085952736050
+    second: XENIA_BATTLE_SPRITES_20
+  - first:
+      213: 2392881564874868846
+    second: XENIA_BATTLE_SPRITES_21
+  - first:
+      213: 3301641477539072506
+    second: XENIA_BATTLE_SPRITES_22
+  - first:
+      213: -4018155998902094857
+    second: XENIA_BATTLE_SPRITES_23
+  - first:
+      213: -1765067306798574184
+    second: XENIA_BATTLE_SPRITES_24
+  - first:
+      213: 176686559090387518
+    second: XENIA_BATTLE_SPRITES_25
+  - first:
+      213: -6108481022531087857
+    second: XENIA_BATTLE_SPRITES_26
+  - first:
+      213: -5721559733832527340
+    second: XENIA_BATTLE_SPRITES_27
+  - first:
+      213: 3694003122155715990
+    second: XENIA_BATTLE_SPRITES_28
+  - first:
+      213: 6755178113095086693
+    second: XENIA_BATTLE_SPRITES_29
+  - first:
+      213: -2014236392501193075
+    second: XENIA_BATTLE_SPRITES_30
+  - first:
+      213: 7462169865855226972
+    second: XENIA_BATTLE_SPRITES_31
+  - first:
+      213: -4545176462822680453
+    second: XENIA_BATTLE_SPRITES_32
+  - first:
+      213: -5558118009418129929
+    second: XENIA_BATTLE_SPRITES_33
+  - first:
+      213: 3116596885499967852
+    second: XENIA_BATTLE_SPRITES_34
+  - first:
+      213: -3663568084194577977
+    second: XENIA_BATTLE_SPRITES_35
+  - first:
+      213: 574341408702839820
+    second: XENIA_BATTLE_SPRITES_36
+  - first:
+      213: 717154104290892505
+    second: XENIA_BATTLE_SPRITES_37
+  - first:
+      213: 1238195282656027011
+    second: XENIA_BATTLE_SPRITES_38
+  - first:
+      213: -554334477389419863
+    second: XENIA_BATTLE_SPRITES_39
+  - first:
+      213: -948070695747738446
+    second: XENIA_BATTLE_SPRITES_40
+  - first:
+      213: 168442121993427652
+    second: XENIA_BATTLE_SPRITES_41
+  - first:
+      213: 4767867961482761561
+    second: XENIA_BATTLE_SPRITES_42
+  - first:
+      213: 2674060596591266196
+    second: XENIA_BATTLE_SPRITES_43
+  - first:
+      213: -4924020220846345914
+    second: XENIA_BATTLE_SPRITES_44
+  - first:
+      213: 1387680557171387117
+    second: XENIA_BATTLE_SPRITES_45
+  - first:
+      213: 9100337923490703191
+    second: XENIA_BATTLE_SPRITES_46
+  - first:
+      213: 5700697850468798608
+    second: XENIA_BATTLE_SPRITES_47
+  - first:
+      213: 7916187208594809012
+    second: XENIA_BATTLE_SPRITES_48
+  - first:
+      213: 3267444517790164045
+    second: XENIA_BATTLE_SPRITES_49
+  - first:
+      213: -7108127342027364174
+    second: XENIA_BATTLE_SPRITES_50
+  - first:
+      213: 8176996493865278339
+    second: XENIA_BATTLE_SPRITES_51
+  - first:
+      213: -7414406741935946699
+    second: XENIA_BATTLE_SPRITES_52
+  - first:
+      213: 1809193152554595948
+    second: XENIA_BATTLE_SPRITES_53
+  - first:
+      213: 1450611310710473125
+    second: XENIA_BATTLE_SPRITES_54
+  - first:
+      213: -862749078975323057
+    second: XENIA_BATTLE_SPRITES_55
+  - first:
+      213: 4796288890416956992
+    second: XENIA_BATTLE_SPRITES_56
+  - first:
+      213: 8225676634302266768
+    second: XENIA_BATTLE_SPRITES_57
+  - first:
+      213: -6420690183479294238
+    second: XENIA_BATTLE_SPRITES_58
+  - first:
+      213: -5000133754923697391
+    second: XENIA_BATTLE_SPRITES_59
+  - first:
+      213: -5811813689385845395
+    second: XENIA_BATTLE_SPRITES_60
+  - first:
+      213: 5818847829921058393
+    second: XENIA_BATTLE_SPRITES_61
+  - first:
+      213: 8810109386919455134
+    second: XENIA_BATTLE_SPRITES_62
+  - first:
+      213: -7755364812119725003
+    second: XENIA_BATTLE_SPRITES_63
+  - first:
+      213: 1568312677241492935
+    second: XENIA_BATTLE_SPRITES_64
+  - first:
+      213: -7642794056116190886
+    second: XENIA_BATTLE_SPRITES_65
+  - first:
+      213: -3989435442153822158
+    second: XENIA_BATTLE_SPRITES_66
+  - first:
+      213: 5916119547715551421
+    second: XENIA_BATTLE_SPRITES_67
+  - first:
+      213: 4018998584709876988
+    second: XENIA_BATTLE_SPRITES_68
+  - first:
+      213: -1020620504943648095
+    second: XENIA_BATTLE_SPRITES_69
+  - first:
+      213: 8969625761315474862
+    second: XENIA_BATTLE_SPRITES_70
+  - first:
+      213: 5428849882344937538
+    second: XENIA_BATTLE_SPRITES_71
+  - first:
+      213: 3443725485834832055
+    second: XENIA_BATTLE_SPRITES_72
+  - first:
+      213: 6225375773641443410
+    second: XENIA_BATTLE_SPRITES_73
+  - first:
+      213: -5541228205908354957
+    second: XENIA_BATTLE_SPRITES_74
+  - first:
+      213: 6454257329636754910
+    second: XENIA_BATTLE_SPRITES_75
+  - first:
+      213: -5504443705797379408
+    second: XENIA_BATTLE_SPRITES_76
+  - first:
+      213: -5588528602809305928
+    second: XENIA_BATTLE_SPRITES_77
+  - first:
+      213: 8764411931502347117
+    second: XENIA_BATTLE_SPRITES_78
+  - first:
+      213: -437293936855084333
+    second: XENIA_BATTLE_SPRITES_79
+  - first:
+      213: -3963106920161094129
+    second: XENIA_BATTLE_SPRITES_80
+  - first:
+      213: -687267169022490730
+    second: XENIA_BATTLE_SPRITES_81
+  - first:
+      213: 4072989526757436107
+    second: XENIA_BATTLE_SPRITES_82
+  - first:
+      213: 245143422409227043
+    second: XENIA_BATTLE_SPRITES_83
+  - first:
+      213: -6360456579595648070
+    second: XENIA_BATTLE_SPRITES_84
+  - first:
+      213: -3226887068233665650
+    second: XENIA_BATTLE_SPRITES_85
+  - first:
+      213: 1384384620605313382
+    second: XENIA_BATTLE_SPRITES_86
+  - first:
+      213: 7151877888084579454
+    second: XENIA_BATTLE_SPRITES_87
+  - first:
+      213: -342993866665808566
+    second: XENIA_BATTLE_SPRITES_88
+  - first:
+      213: 6567716374907102216
+    second: XENIA_BATTLE_SPRITES_89
+  - first:
+      213: -1303448769942426306
+    second: XENIA_BATTLE_SPRITES_90
+  - first:
+      213: -1669151585610351605
+    second: XENIA_BATTLE_SPRITES_91
+  - first:
+      213: -9101085974909373408
+    second: XENIA_BATTLE_SPRITES_92
+  - first:
+      213: -7944974123689393654
+    second: XENIA_BATTLE_SPRITES_93
+  - first:
+      213: 8223121554472922881
+    second: XENIA_BATTLE_SPRITES_94
+  - first:
+      213: 3943494726128732281
+    second: XENIA_BATTLE_SPRITES_95
+  - first:
+      213: 2299253763215984801
+    second: XENIA_BATTLE_SPRITES_96
+  - first:
+      213: 3418705697655944286
+    second: XENIA_BATTLE_SPRITES_97
+  - first:
+      213: 4289530202492563157
+    second: XENIA_BATTLE_SPRITES_98
+  - first:
+      213: -1573920331550586158
+    second: XENIA_BATTLE_SPRITES_99
+  - first:
+      213: 737005653586175759
+    second: XENIA_BATTLE_SPRITES_100
+  - first:
+      213: -6922582599055020204
+    second: XENIA_BATTLE_SPRITES_101
+  - first:
+      213: -42498335324558848
+    second: XENIA_BATTLE_SPRITES_102
+  - first:
+      213: 5273870240152749864
+    second: XENIA_BATTLE_SPRITES_103
+  - first:
+      213: 2387813420088100021
+    second: XENIA_BATTLE_SPRITES_104
+  - first:
+      213: 1812141916599031193
+    second: XENIA_BATTLE_SPRITES_105
+  - first:
+      213: -3037158150517828719
+    second: XENIA_BATTLE_SPRITES_106
+  - first:
+      213: -1417486697086144184
+    second: XENIA_BATTLE_SPRITES_107
+  - first:
+      213: -8646584908790787009
+    second: XENIA_BATTLE_SPRITES_108
+  - first:
+      213: -7198317619121422090
+    second: XENIA_BATTLE_SPRITES_109
+  - first:
+      213: -6813493993963998888
+    second: XENIA_BATTLE_SPRITES_110
+  - first:
+      213: -3172008230564671680
+    second: XENIA_BATTLE_SPRITES_111
+  - first:
+      213: 6843546925555887886
+    second: XENIA_BATTLE_SPRITES_112
+  - first:
+      213: 4177091674141239877
+    second: XENIA_BATTLE_SPRITES_113
+  - first:
+      213: 723289449635011844
+    second: XENIA_BATTLE_SPRITES_114
+  - first:
+      213: 277692574883896030
+    second: XENIA_BATTLE_SPRITES_115
+  - first:
+      213: 8429806451476665697
+    second: XENIA_BATTLE_SPRITES_116
+  - first:
+      213: -6288846201168409286
+    second: XENIA_BATTLE_SPRITES_117
+  - first:
+      213: -8467918557930816188
+    second: XENIA_BATTLE_SPRITES_118
+  - first:
+      213: -4716094331124650524
+    second: XENIA_BATTLE_SPRITES_119
+  - first:
+      213: -1935367397260083236
+    second: XENIA_BATTLE_SPRITES_120
+  - first:
+      213: 5758623697647883104
+    second: XENIA_BATTLE_SPRITES_121
+  - first:
+      213: -2840351523786558776
+    second: XENIA_BATTLE_SPRITES_122
+  - first:
+      213: 7615676397946942756
+    second: XENIA_BATTLE_SPRITES_123
+  - first:
+      213: -1600268209039803008
+    second: XENIA_BATTLE_SPRITES_124
+  - first:
+      213: -3462290856845085677
+    second: XENIA_BATTLE_SPRITES_125
+  - first:
+      213: 4450384320736505195
+    second: XENIA_BATTLE_SPRITES_126
+  - first:
+      213: -7611372421484427559
+    second: XENIA_BATTLE_SPRITES_127
+  - first:
+      213: 2578392145940770989
+    second: XENIA_BATTLE_SPRITES_128
+  - first:
+      213: -9039765458078347315
+    second: XENIA_BATTLE_SPRITES_129
+  - first:
+      213: 8217904169627184627
+    second: XENIA_BATTLE_SPRITES_130
+  - first:
+      213: 8528757759121731252
+    second: XENIA_BATTLE_SPRITES_131
+  - first:
+      213: -5196379511914498828
+    second: XENIA_BATTLE_SPRITES_132
+  - first:
+      213: 4742048784930815247
+    second: XENIA_BATTLE_SPRITES_133
+  - first:
+      213: -7659581364037811800
+    second: XENIA_BATTLE_SPRITES_134
+  - first:
+      213: -5233817940838382810
+    second: XENIA_BATTLE_SPRITES_135
+  - first:
+      213: 5364699188681275830
+    second: XENIA_BATTLE_SPRITES_136
+  - first:
+      213: 3117115980958208513
+    second: XENIA_BATTLE_SPRITES_137
+  - first:
+      213: 4308803447063226619
+    second: XENIA_BATTLE_SPRITES_138
+  - first:
+      213: -3565864509805101238
+    second: XENIA_BATTLE_SPRITES_139
+  - first:
+      213: -4317053750052991296
+    second: XENIA_BATTLE_SPRITES_140
+  - first:
+      213: -9102723696211680449
+    second: XENIA_BATTLE_SPRITES_141
+  - first:
+      213: 848516902463811381
+    second: XENIA_BATTLE_SPRITES_142
+  - first:
+      213: -1768739678988544340
+    second: XENIA_BATTLE_SPRITES_143
+  - first:
+      213: -2930980253458486327
+    second: XENIA_BATTLE_SPRITES_144
+  - first:
+      213: -5276816149267104869
+    second: XENIA_BATTLE_SPRITES_145
+  - first:
+      213: -3937899260854298807
+    second: XENIA_BATTLE_SPRITES_146
+  - first:
+      213: 4386902339717195466
+    second: XENIA_BATTLE_SPRITES_147
+  - first:
+      213: -4304180567958879956
+    second: XENIA_BATTLE_SPRITES_148
+  - first:
+      213: 4768862169020159316
+    second: XENIA_BATTLE_SPRITES_149
+  - first:
+      213: -9126726905737413658
+    second: XENIA_BATTLE_SPRITES_150
+  - first:
+      213: -434252828528023484
+    second: XENIA_BATTLE_SPRITES_151
+  - first:
+      213: 513978794249751521
+    second: XENIA_BATTLE_SPRITES_152
+  - first:
+      213: 1074738497000788632
+    second: XENIA_BATTLE_SPRITES_153
+  - first:
+      213: -2843664801365119646
+    second: XENIA_BATTLE_SPRITES_154
+  - first:
+      213: 6192345297880465540
+    second: XENIA_BATTLE_SPRITES_155
+  - first:
+      213: -4924222333991712705
+    second: XENIA_BATTLE_SPRITES_156
+  - first:
+      213: -3306089618168850846
+    second: XENIA_BATTLE_SPRITES_157
+  - first:
+      213: -7113984979016033013
+    second: XENIA_BATTLE_SPRITES_158
+  - first:
+      213: -8414746278427868965
+    second: XENIA_BATTLE_SPRITES_159
+  - first:
+      213: 8363507520229853932
+    second: XENIA_BATTLE_SPRITES_160
+  - first:
+      213: 4611090568995502606
+    second: XENIA_BATTLE_SPRITES_161
+  - first:
+      213: -2723811549025511223
+    second: XENIA_BATTLE_SPRITES_162
+  - first:
+      213: 2468105287667268654
+    second: XENIA_BATTLE_SPRITES_163
+  - first:
+      213: 3608780473942418371
+    second: XENIA_BATTLE_SPRITES_164
+  - first:
+      213: -8906797016998297467
+    second: XENIA_BATTLE_SPRITES_165
+  - first:
+      213: -8794867633927439795
+    second: XENIA_BATTLE_SPRITES_166
+  - first:
+      213: -7816152228526179387
+    second: XENIA_BATTLE_SPRITES_167
+  - first:
+      213: -1670767400163110950
+    second: XENIA_BATTLE_SPRITES_168
+  - first:
+      213: 414844223764799211
+    second: XENIA_BATTLE_SPRITES_169
+  - first:
+      213: 7095213017405110733
+    second: XENIA_BATTLE_SPRITES_170
+  - first:
+      213: 1562541390203085328
+    second: XENIA_BATTLE_SPRITES_171
+  - first:
+      213: 6990732112852371507
+    second: XENIA_BATTLE_SPRITES_172
+  - first:
+      213: -8949587152222214871
+    second: XENIA_BATTLE_SPRITES_173
+  - first:
+      213: 7672099946631468738
+    second: XENIA_BATTLE_SPRITES_174
+  - first:
+      213: -8127452379649177717
+    second: XENIA_BATTLE_SPRITES_175
+  - first:
+      213: 8346160550404920976
+    second: XENIA_BATTLE_SPRITES_176
+  - first:
+      213: -819581152559157169
+    second: XENIA_BATTLE_SPRITES_177
+  - first:
+      213: -8326931140119447915
+    second: XENIA_BATTLE_SPRITES_178
+  - first:
+      213: 8340646533835283718
+    second: XENIA_BATTLE_SPRITES_179
+  - first:
+      213: 2916128439428195422
+    second: XENIA_BATTLE_SPRITES_180
+  - first:
+      213: -2856585060666597867
+    second: XENIA_BATTLE_SPRITES_181
+  - first:
+      213: -4202156812011878652
+    second: XENIA_BATTLE_SPRITES_182
+  - first:
+      213: 1480803475409967320
+    second: XENIA_BATTLE_SPRITES_183
+  - first:
+      213: -7943435127057157557
+    second: XENIA_BATTLE_SPRITES_184
+  - first:
+      213: -3463381977275783364
+    second: XENIA_BATTLE_SPRITES_185
+  - first:
+      213: -5857153249715331224
+    second: XENIA_BATTLE_SPRITES_186
+  - first:
+      213: -7094251002973744683
+    second: XENIA_BATTLE_SPRITES_187
+  - first:
+      213: -2643893064390332670
+    second: XENIA_BATTLE_SPRITES_188
+  - first:
+      213: -3555770145979131868
+    second: XENIA_BATTLE_SPRITES_189
+  - first:
+      213: -6169758670775264275
+    second: XENIA_BATTLE_SPRITES_190
+  - first:
+      213: 9173900309781331988
+    second: XENIA_BATTLE_SPRITES_191
+  - first:
+      213: -8257845369114815906
+    second: XENIA_BATTLE_SPRITES_192
+  - first:
+      213: 2504050438295514632
+    second: XENIA_BATTLE_SPRITES_193
+  - first:
+      213: -1959646306667382452
+    second: XENIA_BATTLE_SPRITES_194
+  - first:
+      213: -1563821009277882827
+    second: XENIA_BATTLE_SPRITES_195
+  - first:
+      213: 3642674482564832232
+    second: XENIA_BATTLE_SPRITES_196
+  - first:
+      213: 4285580434025438837
+    second: XENIA_BATTLE_SPRITES_197
+  - first:
+      213: -1035552238314558511
+    second: XENIA_BATTLE_SPRITES_198
+  - first:
+      213: -6343721343751018273
+    second: XENIA_BATTLE_SPRITES_199
+  - first:
+      213: -7487799776940944816
+    second: XENIA_BATTLE_SPRITES_200
+  - first:
+      213: -2056991970138463818
+    second: XENIA_BATTLE_SPRITES_201
+  - first:
+      213: 6930213263769137305
+    second: XENIA_BATTLE_SPRITES_202
+  - first:
+      213: -4634315951781027777
+    second: XENIA_BATTLE_SPRITES_203
+  - first:
+      213: 261605979777579125
+    second: XENIA_BATTLE_SPRITES_204
+  - first:
+      213: -9089363354584650958
+    second: XENIA_BATTLE_SPRITES_205
+  - first:
+      213: 6784995178028431977
+    second: XENIA_BATTLE_SPRITES_206
+  - first:
+      213: -6788655869443592724
+    second: XENIA_BATTLE_SPRITES_207
+  - first:
+      213: 3969403928263074457
+    second: XENIA_BATTLE_SPRITES_208
+  - first:
+      213: 288856415857296188
+    second: XENIA_BATTLE_SPRITES_209
+  - first:
+      213: 7341666367099837813
+    second: XENIA_BATTLE_SPRITES_210
+  - first:
+      213: -1951022348018843418
+    second: XENIA_BATTLE_SPRITES_211
+  - first:
+      213: -599832428852333999
+    second: XENIA_BATTLE_SPRITES_212
+  - first:
+      213: 4646953925623659142
+    second: XENIA_BATTLE_SPRITES_213
+  - first:
+      213: 5601196077080000106
+    second: XENIA_BATTLE_SPRITES_214
+  - first:
+      213: -7029288660122972301
+    second: XENIA_BATTLE_SPRITES_215
+  - first:
+      213: -6268794159705870726
+    second: XENIA_BATTLE_SPRITES_216
+  - first:
+      213: 8539525688644169579
+    second: XENIA_BATTLE_SPRITES_217
+  - first:
+      213: 983862711262132220
+    second: XENIA_BATTLE_SPRITES_218
+  - first:
+      213: -8695347861073138657
+    second: XENIA_BATTLE_SPRITES_219
+  - first:
+      213: -4733604333353851293
+    second: XENIA_BATTLE_SPRITES_220
+  - first:
+      213: -4102957191635841
+    second: XENIA_BATTLE_SPRITES_221
+  - first:
+      213: -2499585311045938326
+    second: XENIA_BATTLE_SPRITES_222
+  - first:
+      213: 8216426770181384237
+    second: XENIA_BATTLE_SPRITES_223
+  - first:
+      213: -7284045173803637376
+    second: XENIA_BATTLE_SPRITES_224
+  - first:
+      213: -1624957468661343525
+    second: XENIA_BATTLE_SPRITES_225
+  - first:
+      213: -6714284620799604298
+    second: XENIA_BATTLE_SPRITES_226
+  - first:
+      213: -4442231443624099131
+    second: XENIA_BATTLE_SPRITES_227
+  - first:
+      213: 7850422832266182090
+    second: XENIA_BATTLE_SPRITES_228
+  - first:
+      213: -4032460344165900504
+    second: XENIA_BATTLE_SPRITES_229
+  - first:
+      213: 4970350735456248298
+    second: XENIA_BATTLE_SPRITES_230
+  - first:
+      213: 5097105343439810771
+    second: XENIA_BATTLE_SPRITES_231
+  - first:
+      213: 5081147677144594046
+    second: XENIA_BATTLE_SPRITES_232
+  - first:
+      213: 5267932863492149553
+    second: XENIA_BATTLE_SPRITES_233
+  - first:
+      213: -7657905624162936656
+    second: XENIA_BATTLE_SPRITES_234
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 476
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d94b8f00485ca0800000000000000
+      internalID: -6027997665729849193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 479
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc5187d934ef70e0800000000000000
+      internalID: -2269844750091592514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 480
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce76dda075935ab40800000000000000
+      internalID: 5450825970009073644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 499
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e69da7d4b6b9f50800000000000000
+      internalID: 6889218035511029257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_4
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501ff3b3b67855300800000000000000
+      internalID: 240247049759486213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_5
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8701038340eabb0800000000000000
+      internalID: -4922992703298307886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 476
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a1d9558857906b0800000000000000
+      internalID: -5329599455603910018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 479
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1dd36259bc925f0800000000000000
+      internalID: -780869218919919184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_8
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 480
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cfadb2ed11b4210800000000000000
+      internalID: 1318166961852185726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51ad5ebc719d0390800000000000000
+      internalID: -7850458610481127075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_10
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 499
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a40018e63f6f8330800000000000000
+      internalID: 3715310499216229544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 480
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d3b94c83efb1740800000000000000
+      internalID: 5123968520834202947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 476
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357f4ecbca07930e0800000000000000
+      internalID: -2289675048335378605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 478
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc94cb60ab9ef6c10800000000000000
+      internalID: 2049113340663056847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_14
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 480
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f8ff15bfc0ebea0800000000000000
+      internalID: -5855228191983038638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_15
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 480
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a55ed0bb79290a30800000000000000
+      internalID: 4181919340215293345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 481
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677722f6f367a2c0800000000000000
+      internalID: -4420454596965075099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 481
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d5bc442eecd77d0800000000000000
+      internalID: -2918949512254104299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_18
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 481
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364a3f63216074d00800000000000000
+      internalID: 956740121140634723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 480
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43743804339e46370800000000000000
+      internalID: 8315027218367727412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 478
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec44837fab42c18b0800000000000000
+      internalID: -5180225085952736050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_21
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 476
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6882ffea19353120800000000000000
+      internalID: 2392881564874868846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_22
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 478
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af989645e69c1dd20800000000000000
+      internalID: 3301641477539072506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_23
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 480
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3f5597864ac38c0800000000000000
+      internalID: -4018155998902094857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8959d9dd2a83187e0800000000000000
+      internalID: -1765067306798574184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 445
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a2b274d77b37200800000000000000
+      internalID: 176686559090387518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_26
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 445
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02d1d6cfd05a3ba0800000000000000
+      internalID: -6108481022531087857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_27
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 445
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412dbb77cbfe890b0800000000000000
+      internalID: -5721559733832527340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_28
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 444
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d7647944cb34330800000000000000
+      internalID: 3694003122155715990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 442
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562b68114b63fbd50800000000000000
+      internalID: 6755178113095086693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_30
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 443
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d865d434caefb04e0800000000000000
+      internalID: -2014236392501193075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 443
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54dcebe4f3fe8760800000000000000
+      internalID: 7462169865855226972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 440
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78dcf3a61a4ce0c0800000000000000
+      internalID: -4545176462822680453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_33
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 440
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd5eec5e199dd2b0800000000000000
+      internalID: -5558118009418129929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_34
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 440
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69705cda50604b20800000000000000
+      internalID: 3116596885499967852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_35
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 440
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1bf13ec34682dc0800000000000000
+      internalID: -3663568084194577977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cb78dd77878f700800000000000000
+      internalID: 574341408702839820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dad873bbd7d3f900800000000000000
+      internalID: 717154104290892505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381e641ac04fe2110800000000000000
+      internalID: 1238195282656027011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_39
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaa374dabb9e48f0800000000000000
+      internalID: -554334477389419863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4affda9b6c7d2f0800000000000000
+      internalID: -948070695747738446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_41
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca91aea73d665200800000000000000
+      internalID: 168442121993427652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_42
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955552456aeda2240800000000000000
+      internalID: 4767867961482761561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_43
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 447
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49901bfd1fb2c1520800000000000000
+      internalID: 2674060596591266196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 440
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641fc9d92bd5aabb0800000000000000
+      internalID: -4924020220846345914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deaaaef4d18024310800000000000000
+      internalID: 1387680557171387117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_46
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 406
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757eda13025ea4e70800000000000000
+      internalID: 9100337923490703191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 406
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090960dcd72fc1f40800000000000000
+      internalID: 5700697850468798608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 404
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e8cf0352fbdd60800000000000000
+      internalID: 7916187208594809012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 405
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442e2e2a7b485d20800000000000000
+      internalID: 3267444517790164045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_50
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 406
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8a738c7dbda5d90800000000000000
+      internalID: -7108127342027364174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_51
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 406
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b5472dcf68a7170800000000000000
+      internalID: 8176996493865278339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_52
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 404
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53485a6f95cba1990800000000000000
+      internalID: -7414406741935946699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_53
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 405
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66f514369b8b1910800000000000000
+      internalID: 1809193152554595948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_54
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1cf0a2d4b912410800000000000000
+      internalID: 1450611310710473125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f446161a846e604f0800000000000000
+      internalID: -862749078975323057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04684718557df8240800000000000000
+      internalID: 4796288890416956992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_57
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 406
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d31d04159772270800000000000000
+      internalID: 8225676634302266768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_58
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 405
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e601e0eb4025e6a0800000000000000
+      internalID: -6420690183479294238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b355c77d4fb9ab0800000000000000
+      internalID: -5000133754923697391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_60
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d7767ed3a485fa0800000000000000
+      internalID: -5811813689385845395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_61
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e4f709543b0c050800000000000000
+      internalID: 5818847829921058393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_62
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e992ba73fcbc34a70800000000000000
+      internalID: 8810109386919455134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_63
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c2a060bc86f5490800000000000000
+      internalID: -7755364812119725003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 370
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c598b71214c3c510800000000000000
+      internalID: 1568312677241492935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 369
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a514ab99c475fe590800000000000000
+      internalID: -7642794056116190886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 371
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23861103a9da2a8c0800000000000000
+      internalID: -3989435442153822158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_67
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 371
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0845a32674a1250800000000000000
+      internalID: 5916119547715551421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_68
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc0e625be956c730800000000000000
+      internalID: 4018998584709876988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_69
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2aa58ee0706d1f0800000000000000
+      internalID: -1020620504943648095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_70
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadc6675b138a7c70800000000000000
+      internalID: 8969625761315474862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_71
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24857186436275b40800000000000000
+      internalID: 5428849882344937538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_72
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8052f65129acf20800000000000000
+      internalID: 3443725485834832055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258883d584af46650800000000000000
+      internalID: 6225375773641443410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_74
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378157f2e4a9913b0800000000000000
+      internalID: -5541228205908354957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_75
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5c5fd58d0229950800000000000000
+      internalID: 6454257329636754910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_76
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baffc50d994c93b0800000000000000
+      internalID: -5504443705797379408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_77
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 369
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f07458de8172b0800000000000000
+      internalID: -5588528602809305928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_78
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 369
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d638462473271a970800000000000000
+      internalID: 8764411931502347117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_79
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 369
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d212573b7b6ee9f0800000000000000
+      internalID: -437293936855084333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_80
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 368
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06d7e8e0473009c0800000000000000
+      internalID: -3963106920161094129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 332
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69740aca6265676f0800000000000000
+      internalID: -687267169022490730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 349
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca634c156a268830800000000000000
+      internalID: 4072989526757436107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 349
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb9b3d4ace66300800000000000000
+      internalID: 245143422409227043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_84
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 337
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3c7e3a07e1bb7a0800000000000000
+      internalID: -6360456579595648070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_85
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 337
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8371a7ee4bc733d0800000000000000
+      internalID: -3226887068233665650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_86
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66191b74a72563310800000000000000
+      internalID: 1384384620605313382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7490440c03904360800000000000000
+      internalID: 7151877888084579454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d2f3145e07d3bf0800000000000000
+      internalID: -342993866665808566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_89
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804aad7ee37352b50800000000000000
+      internalID: 6567716374907102216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_90
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d69acef3839ede0800000000000000
+      internalID: -1303448769942426306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_91
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 334
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c3a67f97bf5d8e0800000000000000
+      internalID: -1669151585610351605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_92
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024bc33868272b180800000000000000
+      internalID: -9101085974909373408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_93
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02c2d7f028cdb190800000000000000
+      internalID: -7944974123689393654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_94
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f673f5c756e1270800000000000000
+      internalID: 8223121554472922881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_95
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97887845f8b1ab630800000000000000
+      internalID: 3943494726128732281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_96
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a808fc9d1798ef10800000000000000
+      internalID: 2299253763215984801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_97
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 333
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54f26c08bea17f20800000000000000
+      internalID: 3418705697655944286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_98
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 332
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dee0e40ef8778b30800000000000000
+      internalID: 4289530202492563157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_99
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 332
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da89252ccf482ae0800000000000000
+      internalID: -1573920331550586158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_100
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 332
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f076573bcbe5a3a00800000000000000
+      internalID: 737005653586175759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_101
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 332
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f6607bdcb0eef90800000000000000
+      internalID: -6922582599055020204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_102
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 332
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a2f6b3df3096ff0800000000000000
+      internalID: -42498335324558848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_103
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8270fcf8a0d803940800000000000000
+      internalID: 5273870240152749864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_104
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 296
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4034687a7332120800000000000000
+      internalID: 2387813420088100021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_105
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 296
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9951b75d875062910800000000000000
+      internalID: 1812141916599031193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_106
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193d3bfe0c8d9d5d0800000000000000
+      internalID: -3037158150517828719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_107
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841b652fb53145ce0800000000000000
+      internalID: -1417486697086144184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_108
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34954746d8210880800000000000000
+      internalID: -8646584908790787009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_109
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f005d383407a1c90800000000000000
+      internalID: -7198317619121422090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_110
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851b48adf4b9171a0800000000000000
+      internalID: -6813493993963998888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_111
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fc3900253caf3d0800000000000000
+      internalID: -3172008230564671680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_112
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fa97d8ba929fe50800000000000000
+      internalID: 6843546925555887886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_113
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2e671fb208f930800000000000000
+      internalID: 4177091674141239877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_114
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 296
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d584b1ce3a90a00800000000000000
+      internalID: 723289449635011844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_115
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edad7b2fcef8ad300800000000000000
+      internalID: 277692574883896030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_116
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1651099fd40bcf470800000000000000
+      internalID: 8429806451476665697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_117
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 297
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dca4423b789b8a0800000000000000
+      internalID: -6288846201168409286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_118
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 296
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d789fbfe8eb7a80800000000000000
+      internalID: -8467918557930816188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_119
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 296
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ede41a51311d8eb0800000000000000
+      internalID: -4716094331124650524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_120
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfb0703b913425e0800000000000000
+      internalID: -1935367397260083236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_121
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 296
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063d2751ebdbaef40800000000000000
+      internalID: 5758623697647883104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_122
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c27673865b0598d0800000000000000
+      internalID: -2840351523786558776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_123
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42534f7955150b960800000000000000
+      internalID: 7615676397946942756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_124
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08df4deda84bac9e0800000000000000
+      internalID: -1600268209039803008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_125
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 297
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3147aa84fc873ffc0800000000000000
+      internalID: -3462290856845085677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_126
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 296
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6da777e5f0f2cd30800000000000000
+      internalID: 4450384320736505195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_127
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d647340c19fe5690800000000000000
+      internalID: -7611372421484427559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_128
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 260
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0f47eeef948c320800000000000000
+      internalID: 2578392145940770989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_129
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 260
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfc46ae53d4c8280800000000000000
+      internalID: -9039765458078347315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_130
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd64dc4d4cdb0270800000000000000
+      internalID: 8217904169627184627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_131
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 259
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4beaecf9efb3c5670800000000000000
+      internalID: 8528757759121731252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_132
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4f7329d50c2e7b0800000000000000
+      internalID: -5196379511914498828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_133
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dbf55de342fc140800000000000000
+      internalID: 4742048784930815247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_134
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 259
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a10354e453b3b590800000000000000
+      internalID: -7659581364037811800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_135
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6230341105ebd57b0800000000000000
+      internalID: -5233817940838382810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_136
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 278
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b97c2c1d7d337a40800000000000000
+      internalID: 5364699188681275830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_137
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 278
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10215b03878324b20800000000000000
+      internalID: 3117115980958208513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_138
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8ae25f7e1fbcb30800000000000000
+      internalID: 4308803447063226619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_139
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 260
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ff4effe11838ec0800000000000000
+      internalID: -3565864509805101238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_140
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 260
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cec2dfac7eb614c0800000000000000
+      internalID: -4317053750052991296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_141
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 260
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33a5cec601aca180800000000000000
+      internalID: -9102723696211680449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_142
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 260
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f254d80a986cb00800000000000000
+      internalID: 848516902463811381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_143
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 261
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6dfb512ac2477e0800000000000000
+      internalID: -1768739678988544340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_144
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 261
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb2cec0df01357d0800000000000000
+      internalID: -2930980253458486327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_145
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 260
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb3e58babf4c6b0800000000000000
+      internalID: -5276816149267104869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_146
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 260
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94791837c75c959c0800000000000000
+      internalID: -3937899260854298807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_147
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 260
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac66c276f6861ec30800000000000000
+      internalID: 4386902339717195466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_148
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c210ca5f39a7444c0800000000000000
+      internalID: -4304180567958879956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_149
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 242
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455de3f40e66e2240800000000000000
+      internalID: 4768862169020159316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_150
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 228
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb75851c3a575180800000000000000
+      internalID: -9126726905737413658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_151
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 228
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448e0ec6a5939f9f0800000000000000
+      internalID: -434252828528023484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_152
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 228
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb075d7df4022700800000000000000
+      internalID: 513978794249751521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_153
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 228
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8925b2408fc3aee00800000000000000
+      internalID: 1074738497000788632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_154
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 229
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da956fde54988d0800000000000000
+      internalID: -2843664801365119646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_155
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 228
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480c9be6d31afe550800000000000000
+      internalID: 6192345297880465540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_156
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 228
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38016b70e5a9abb0800000000000000
+      internalID: -4924222333991712705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_157
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 242
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266507932096e12d0800000000000000
+      internalID: -3306089618168850846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_158
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 228
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dd8446a5c064d90800000000000000
+      internalID: -7113984979016033013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_159
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 228
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0444fc7d0d83b80800000000000000
+      internalID: -8414746278427868965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_160
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 228
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceacb9327c5211470800000000000000
+      internalID: 8363507520229853932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_161
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 228
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a71202172edff30800000000000000
+      internalID: 4611090568995502606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_162
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 229
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85a39d3d3133ad0800000000000000
+      internalID: -2723811549025511223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_163
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 228
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2cbbabbea8704220800000000000000
+      internalID: 2468105287667268654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_164
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 228
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c324bd88b6f41230800000000000000
+      internalID: 3608780473942418371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_165
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 226
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ce43ad43b46480800000000000000
+      internalID: -8906797016998297467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4abc21fb7a52f580800000000000000
+      internalID: -8794867633927439795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_167
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 223
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbb15cb5f2778390800000000000000
+      internalID: -7816152228526179387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_168
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 225
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf89f2d6ed30d8e0800000000000000
+      internalID: -1670767400163110950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_169
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 188
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee9f92af92d1c500800000000000000
+      internalID: 414844223764799211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_170
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 187
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b824b5a2477260800000000000000
+      internalID: 7095213017405110733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_171
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 190
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01266ed9d134fa510800000000000000
+      internalID: 1562541390203085328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_172
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 189
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3384b7271d1140160800000000000000
+      internalID: 6990732112852371507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_173
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 188
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9252569e6edacc380800000000000000
+      internalID: -8949587152222214871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_174
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 190
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c61340c046c87a60800000000000000
+      internalID: 7672099946631468738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_175
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 189
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b878b1e2f1d753f80800000000000000
+      internalID: -8127452379649177717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_176
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 188
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096934dfcc483d370800000000000000
+      internalID: 8346160550404920976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_177
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 188
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f403b19b84340a4f0800000000000000
+      internalID: -819581152559157169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_178
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 187
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596ba0cfe3cc07c80800000000000000
+      internalID: -8326931140119447915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_179
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 186
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d5856f4ddefb370800000000000000
+      internalID: 8340646533835283718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_180
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 189
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5428878d5b287820800000000000000
+      internalID: 2916128439428195422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_181
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 188
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51e974ca50f5b58d0800000000000000
+      internalID: -2856585060666597867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_182
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 187
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4074b89b4a0fea5c0800000000000000
+      internalID: -4202156812011878652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_183
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 188
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d899fd4aeedc8410800000000000000
+      internalID: 1480803475409967320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_184
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 187
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42f56b86df33c190800000000000000
+      internalID: -7943435127057157557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_185
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 186
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37acf201789fefc0800000000000000
+      internalID: -3463381977275783364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_186
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 189
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f51b3e62637bea0800000000000000
+      internalID: -5857153249715331224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_187
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 188
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d19a4cbc482c8d90800000000000000
+      internalID: -7094251002973744683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_188
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 187
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f25e014410f4bd0800000000000000
+      internalID: -2643893064390332670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_189
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 189
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42899f934ed57aec0800000000000000
+      internalID: -3555770145979131868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_190
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 187
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: debdd8e7d2d906aa0800000000000000
+      internalID: -6169758670775264275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_191
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 186
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410cc51f9bd305f70800000000000000
+      internalID: 9173900309781331988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_192
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 188
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e529ec3836d366d80800000000000000
+      internalID: -8257845369114815906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_193
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee34a4b9c20c220800000000000000
+      internalID: 2504050438295514632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_194
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 149
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c493fa51110fdc4e0800000000000000
+      internalID: -1959646306667382452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_195
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 152
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ee2b9d3113c4ae0800000000000000
+      internalID: -1563821009277882827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_196
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 151
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb18a564216d8230800000000000000
+      internalID: 3642674482564832232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_197
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e5372e2b0797b30800000000000000
+      internalID: 4285580434025438837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_198
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 152
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db66e0d9baf0a1f0800000000000000
+      internalID: -1035552238314558511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_199
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 151
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd828af5c0396f7a0800000000000000
+      internalID: -6343721343751018273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_200
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0529f2266cdf51890800000000000000
+      internalID: -7487799776940944816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_201
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 151
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1e01a93b81473e0800000000000000
+      internalID: -2056991970138463818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_202
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990f8acde301d2060800000000000000
+      internalID: 6930213263769137305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_203
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 149
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f306a2d023a9fafb0800000000000000
+      internalID: -4634315951781027777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_204
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 152
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578b2c7a04961a300800000000000000
+      internalID: 261605979777579125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_205
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 151
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b678fbf281cd180800000000000000
+      internalID: -9089363354584650958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_206
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a7f1d7a25292e50800000000000000
+      internalID: 6784995178028431977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_207
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 151
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceda17f5479d9c1a0800000000000000
+      internalID: -6788655869443592724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_208
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992292a87d7261730800000000000000
+      internalID: 3969403928263074457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_209
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 149
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33444a3169320400800000000000000
+      internalID: 288856415857296188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_210
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 152
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d1b6eb9a6d2e560800000000000000
+      internalID: 7341666367099837813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_211
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 151
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e00d7de2839ce4e0800000000000000
+      internalID: -1951022348018843418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_212
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1523f718597fca7f0800000000000000
+      internalID: -599832428852333999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_213
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ab76889fb4d7040800000000000000
+      internalID: 4646953925623659142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_214
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a663aabd7227bbd40800000000000000
+      internalID: 5601196077080000106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_215
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f40b5d433f27e90800000000000000
+      internalID: -7029288660122972301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_216
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 150
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e20bcdce4c009a0800000000000000
+      internalID: -6268794159705870726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_217
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 150
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f65f59e5d728670800000000000000
+      internalID: 8539525688644169579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_218
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf738845ce167ad00800000000000000
+      internalID: 983862711262132220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_219
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 113
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c6846b03be35780800000000000000
+      internalID: -8695347861073138657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_220
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 113
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366a13340fbde4eb0800000000000000
+      internalID: -4733604333353851293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_221
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c5016d16c61fff0800000000000000
+      internalID: -4102957191635841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_222
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 113
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6392592760bf4dd0800000000000000
+      internalID: -2499585311045938326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_223
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 114
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ebaf6d9c960270800000000000000
+      internalID: 8216426770181384237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_224
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0852987c18fd9ea90800000000000000
+      internalID: -7284045173803637376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_225
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda9259aacdf279e0800000000000000
+      internalID: -1624957468661343525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_226
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 114
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b90f5016b112d2a0800000000000000
+      internalID: -6714284620799604298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_227
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c207b8b9060a52c0800000000000000
+      internalID: -4442231443624099131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_228
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd77ddf8fd42fc60800000000000000
+      internalID: 7850422832266182090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_229
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 114
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f542f8ea2d908c0800000000000000
+      internalID: -4032460344165900504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_230
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1a8fbe8ab3af440800000000000000
+      internalID: 4970350735456248298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_231
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0b972ed4e8cb640800000000000000
+      internalID: 5097105343439810771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_232
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 114
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76318b24ecd38640800000000000000
+      internalID: 5081147677144594046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_233
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1315e0557057b1940800000000000000
+      internalID: 5267932863492149553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: XENIA_BATTLE_SPRITES_234
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 113
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b85d4c7867a9b590800000000000000
+      internalID: -7657905624162936656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

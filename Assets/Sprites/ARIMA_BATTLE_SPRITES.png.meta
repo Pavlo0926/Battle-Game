@@ -1,0 +1,2552 @@
+fileFormatVersion: 2
+guid: a377aef9bef384dd68b6aef7884be0f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -353497108728403294
+    second: ARIMA_BATTLE_SPRITES_0
+  - first:
+      213: 8077603970998821
+    second: ARIMA_BATTLE_SPRITES_1
+  - first:
+      213: -2662345730744938006
+    second: ARIMA_BATTLE_SPRITES_2
+  - first:
+      213: -2960432126556206572
+    second: ARIMA_BATTLE_SPRITES_3
+  - first:
+      213: 1545341227433796266
+    second: ARIMA_BATTLE_SPRITES_4
+  - first:
+      213: -1667331069618472344
+    second: ARIMA_BATTLE_SPRITES_5
+  - first:
+      213: 4923806775953119916
+    second: ARIMA_BATTLE_SPRITES_6
+  - first:
+      213: 3999652446641009716
+    second: ARIMA_BATTLE_SPRITES_7
+  - first:
+      213: -8363801861160074585
+    second: ARIMA_BATTLE_SPRITES_8
+  - first:
+      213: 7231774339044083556
+    second: ARIMA_BATTLE_SPRITES_9
+  - first:
+      213: -8708678420163724248
+    second: ARIMA_BATTLE_SPRITES_10
+  - first:
+      213: 7745609609191620441
+    second: ARIMA_BATTLE_SPRITES_11
+  - first:
+      213: 1124984415663212658
+    second: ARIMA_BATTLE_SPRITES_12
+  - first:
+      213: 2537275122081173182
+    second: ARIMA_BATTLE_SPRITES_13
+  - first:
+      213: -4560831527269141147
+    second: ARIMA_BATTLE_SPRITES_14
+  - first:
+      213: 4928991994774389370
+    second: ARIMA_BATTLE_SPRITES_15
+  - first:
+      213: 4293658456215775460
+    second: ARIMA_BATTLE_SPRITES_16
+  - first:
+      213: -3233965146026370083
+    second: ARIMA_BATTLE_SPRITES_17
+  - first:
+      213: 6464574955356375936
+    second: ARIMA_BATTLE_SPRITES_18
+  - first:
+      213: -6360356667214931144
+    second: ARIMA_BATTLE_SPRITES_19
+  - first:
+      213: -2564132213241493740
+    second: ARIMA_BATTLE_SPRITES_20
+  - first:
+      213: 1900650099569260389
+    second: ARIMA_BATTLE_SPRITES_21
+  - first:
+      213: 8113229489864988549
+    second: ARIMA_BATTLE_SPRITES_22
+  - first:
+      213: -6240942694362822808
+    second: ARIMA_BATTLE_SPRITES_23
+  - first:
+      213: -6299523168904429100
+    second: ARIMA_BATTLE_SPRITES_24
+  - first:
+      213: 3542580559840057493
+    second: ARIMA_BATTLE_SPRITES_25
+  - first:
+      213: -757975013534063922
+    second: ARIMA_BATTLE_SPRITES_26
+  - first:
+      213: 989760470724513303
+    second: ARIMA_BATTLE_SPRITES_27
+  - first:
+      213: 261088989191858036
+    second: ARIMA_BATTLE_SPRITES_28
+  - first:
+      213: 7789968813057756901
+    second: ARIMA_BATTLE_SPRITES_29
+  - first:
+      213: -7677862048614430026
+    second: ARIMA_BATTLE_SPRITES_30
+  - first:
+      213: -5901827008426656831
+    second: ARIMA_BATTLE_SPRITES_31
+  - first:
+      213: 8437404761002620141
+    second: ARIMA_BATTLE_SPRITES_32
+  - first:
+      213: 4458636831693710755
+    second: ARIMA_BATTLE_SPRITES_33
+  - first:
+      213: -8146286323840070058
+    second: ARIMA_BATTLE_SPRITES_34
+  - first:
+      213: 9147746339927396115
+    second: ARIMA_BATTLE_SPRITES_35
+  - first:
+      213: 8347439313496728809
+    second: ARIMA_BATTLE_SPRITES_36
+  - first:
+      213: -2006107300715312809
+    second: ARIMA_BATTLE_SPRITES_37
+  - first:
+      213: 4302451843541949354
+    second: ARIMA_BATTLE_SPRITES_38
+  - first:
+      213: 3617670525190313565
+    second: ARIMA_BATTLE_SPRITES_39
+  - first:
+      213: -8149487186725297972
+    second: ARIMA_BATTLE_SPRITES_40
+  - first:
+      213: -4649993881960959858
+    second: ARIMA_BATTLE_SPRITES_41
+  - first:
+      213: -2752552357668521920
+    second: ARIMA_BATTLE_SPRITES_42
+  - first:
+      213: -5168941477010064975
+    second: ARIMA_BATTLE_SPRITES_43
+  - first:
+      213: -2325138547037227146
+    second: ARIMA_BATTLE_SPRITES_44
+  - first:
+      213: 8451081462027827754
+    second: ARIMA_BATTLE_SPRITES_45
+  - first:
+      213: 7593946168208184514
+    second: ARIMA_BATTLE_SPRITES_46
+  - first:
+      213: 2061796591661083738
+    second: ARIMA_BATTLE_SPRITES_47
+  - first:
+      213: -1857207120420906639
+    second: ARIMA_BATTLE_SPRITES_48
+  - first:
+      213: -8270677605054257531
+    second: ARIMA_BATTLE_SPRITES_49
+  - first:
+      213: -8108971953657418393
+    second: ARIMA_BATTLE_SPRITES_50
+  - first:
+      213: 3996719457220816757
+    second: ARIMA_BATTLE_SPRITES_51
+  - first:
+      213: 6519110319588457215
+    second: ARIMA_BATTLE_SPRITES_52
+  - first:
+      213: 6134291601668017571
+    second: ARIMA_BATTLE_SPRITES_53
+  - first:
+      213: -2608129985213201309
+    second: ARIMA_BATTLE_SPRITES_54
+  - first:
+      213: 7454630127406362908
+    second: ARIMA_BATTLE_SPRITES_55
+  - first:
+      213: -4801232057640753656
+    second: ARIMA_BATTLE_SPRITES_56
+  - first:
+      213: -6264114832294975858
+    second: ARIMA_BATTLE_SPRITES_57
+  - first:
+      213: -8450930835715715214
+    second: ARIMA_BATTLE_SPRITES_58
+  - first:
+      213: 6479893818374501567
+    second: ARIMA_BATTLE_SPRITES_59
+  - first:
+      213: -4402943710898636633
+    second: ARIMA_BATTLE_SPRITES_60
+  - first:
+      213: 6906381051784123499
+    second: ARIMA_BATTLE_SPRITES_61
+  - first:
+      213: 4339239485492555147
+    second: ARIMA_BATTLE_SPRITES_62
+  - first:
+      213: 9114142221288156364
+    second: ARIMA_BATTLE_SPRITES_63
+  - first:
+      213: -8243854660391979388
+    second: ARIMA_BATTLE_SPRITES_64
+  - first:
+      213: 7096269878716451286
+    second: ARIMA_BATTLE_SPRITES_65
+  - first:
+      213: 6983549152861236592
+    second: ARIMA_BATTLE_SPRITES_66
+  - first:
+      213: -2345694488884406713
+    second: ARIMA_BATTLE_SPRITES_67
+  - first:
+      213: -9066361753160099477
+    second: ARIMA_BATTLE_SPRITES_68
+  - first:
+      213: 4539557898475895248
+    second: ARIMA_BATTLE_SPRITES_69
+  - first:
+      213: 1204795338366551322
+    second: ARIMA_BATTLE_SPRITES_70
+  - first:
+      213: 6934568220557007943
+    second: ARIMA_BATTLE_SPRITES_71
+  - first:
+      213: 6664629446492724337
+    second: ARIMA_BATTLE_SPRITES_72
+  - first:
+      213: -5938826163989979732
+    second: ARIMA_BATTLE_SPRITES_73
+  - first:
+      213: 5010689378469635016
+    second: ARIMA_BATTLE_SPRITES_74
+  - first:
+      213: 8135836191637127599
+    second: ARIMA_BATTLE_SPRITES_75
+  - first:
+      213: 3924199665373024591
+    second: ARIMA_BATTLE_SPRITES_76
+  - first:
+      213: -6098903429008084671
+    second: ARIMA_BATTLE_SPRITES_77
+  - first:
+      213: -4888796321294277578
+    second: ARIMA_BATTLE_SPRITES_78
+  - first:
+      213: 4409623614736410801
+    second: ARIMA_BATTLE_SPRITES_79
+  - first:
+      213: -7017387148413102842
+    second: ARIMA_BATTLE_SPRITES_80
+  - first:
+      213: 6519676099075855904
+    second: ARIMA_BATTLE_SPRITES_81
+  - first:
+      213: -4532824920547295784
+    second: ARIMA_BATTLE_SPRITES_82
+  - first:
+      213: 5936533007070713647
+    second: ARIMA_BATTLE_SPRITES_83
+  - first:
+      213: -6397190544410121788
+    second: ARIMA_BATTLE_SPRITES_84
+  - first:
+      213: -5309638139772019587
+    second: ARIMA_BATTLE_SPRITES_85
+  - first:
+      213: -3200083089079669416
+    second: ARIMA_BATTLE_SPRITES_86
+  - first:
+      213: 5713959050418103506
+    second: ARIMA_BATTLE_SPRITES_87
+  - first:
+      213: 7602618762354764112
+    second: ARIMA_BATTLE_SPRITES_88
+  - first:
+      213: -3248538465257211441
+    second: ARIMA_BATTLE_SPRITES_89
+  - first:
+      213: 3646666399735199876
+    second: ARIMA_BATTLE_SPRITES_90
+  - first:
+      213: -4029551037185527745
+    second: ARIMA_BATTLE_SPRITES_91
+  - first:
+      213: -8796979117950273445
+    second: ARIMA_BATTLE_SPRITES_92
+  - first:
+      213: -4221884907655558460
+    second: ARIMA_BATTLE_SPRITES_93
+  - first:
+      213: 1820419931344344304
+    second: ARIMA_BATTLE_SPRITES_94
+  - first:
+      213: -1430042961530474063
+    second: ARIMA_BATTLE_SPRITES_95
+  - first:
+      213: 4377656985286047434
+    second: ARIMA_BATTLE_SPRITES_96
+  - first:
+      213: 2765376435852314843
+    second: ARIMA_BATTLE_SPRITES_97
+  - first:
+      213: 1173022641711425555
+    second: ARIMA_BATTLE_SPRITES_98
+  - first:
+      213: 8604364531004848525
+    second: ARIMA_BATTLE_SPRITES_99
+  - first:
+      213: -3705541481356933720
+    second: ARIMA_BATTLE_SPRITES_100
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 221
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaad15a040281bf0800000000000000
+      internalID: -353497108728403294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 221
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522e35bb982bc1000800000000000000
+      internalID: 8077603970998821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 221
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae19ba1e9a27d0bd0800000000000000
+      internalID: -2662345730744938006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 221
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a86fa7aae6ae6d0800000000000000
+      internalID: -2960432126556206572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 221
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa225f5a8a7227510800000000000000
+      internalID: 1545341227433796266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 223
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a3b60e9337cd8e0800000000000000
+      internalID: -1667331069618472344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_6
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 225
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caad85fdc20e45440800000000000000
+      internalID: 4923806775953119916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4343f0b85be918730800000000000000
+      internalID: 3999652446641009716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a28dc5458ecdeb80800000000000000
+      internalID: -8363801861160074585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 226
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467028e127c6c5460800000000000000
+      internalID: 7231774339044083556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_10
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 225
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cf70f0e1f842780800000000000000
+      internalID: -8708678420163724248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_11
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 223
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ff7bcc6eeed7b60800000000000000
+      internalID: 7745609609191620441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_12
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 224
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278c4799d5fbc9f00800000000000000
+      internalID: 1124984415663212658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 221
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe851dc746363320800000000000000
+      internalID: 2537275122081173182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_14
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 228
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56578b8e3eba4b0c0800000000000000
+      internalID: -4560831527269141147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 228
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a728545ba1c476440800000000000000
+      internalID: 4928991994774389370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_16
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 228
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8e79dfd93269b30800000000000000
+      internalID: 4293658456215775460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 228
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb9a1f75d5ae13d0800000000000000
+      internalID: -3233965146026370083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_18
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 223
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b47edcba8c6b950800000000000000
+      internalID: 6464574955356375936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 217
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bdddd4f497bb7a0800000000000000
+      internalID: -6360356667214931144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_20
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 225
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417ca90665f5a6cd0800000000000000
+      internalID: -2564132213241493740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 225
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567f22b0237706a10800000000000000
+      internalID: 1900650099569260389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 187
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58750ac3c3bf79070800000000000000
+      internalID: 8113229489864988549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 186
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8674fe67fa7b369a0800000000000000
+      internalID: -6240942694362822808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 184
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1cb1fdd099398a0800000000000000
+      internalID: -6299523168904429100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 182
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5989871ff36c92130800000000000000
+      internalID: 3542580559840057493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_26
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 183
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec22ea9bdb12b75f0800000000000000
+      internalID: -757975013534063922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_27
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 184
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e024677e55cbd00800000000000000
+      internalID: 989760470724513303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_28
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 184
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477eb876d039f9300800000000000000
+      internalID: 261088989191858036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_29
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 182
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eecda9cc578b1c60800000000000000
+      internalID: 7789968813057756901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_30
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 183
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba42e55521c27590800000000000000
+      internalID: -7677862048614430026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_31
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 184
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb3ce4ea9f781ea0800000000000000
+      internalID: -5901827008426656831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 184
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de430c54deea71570800000000000000
+      internalID: 8437404761002620141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 184
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5a397539240ed30800000000000000
+      internalID: 4458636831693710755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_34
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 184
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ec3e4dfb392fe80800000000000000
+      internalID: -8146286323840070058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_35
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 183
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f80ce44d253fe70800000000000000
+      internalID: 9147746339927396115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_36
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 182
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e46a1934df08d370800000000000000
+      internalID: 8347439313496728809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759cb8fe900e824e0800000000000000
+      internalID: -2006107300715312809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_38
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 149
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabda85082165bb30800000000000000
+      internalID: 4302451843541949354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_39
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 149
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d569e58ec2c843230800000000000000
+      internalID: 3617670525190313565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_40
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 149
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc024add49437ee80800000000000000
+      internalID: -8149487186725297972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 139
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e803af97337e77fb0800000000000000
+      internalID: -4649993881960959858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 151
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048f08fd638fcc9d0800000000000000
+      internalID: -2752552357668521920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 151
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b93806ec1b3448b0800000000000000
+      internalID: -5168941477010064975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_44
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 152
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67737428fc27bbfd0800000000000000
+      internalID: -2325138547037227146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_45
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 151
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2abe0060d5484570800000000000000
+      internalID: 8451081462027827754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_46
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 149
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4dc773ecd136960800000000000000
+      internalID: 7593946168208184514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_47
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 149
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ce1158319fc9c10800000000000000
+      internalID: 2061796591661083738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_48
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 142
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1795cf0c6ffd936e0800000000000000
+      internalID: -1857207120420906639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_49
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 151
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58666f2c986a83d80800000000000000
+      internalID: -8270677605054257531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_50
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 151
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76de4a8a8f4277f80800000000000000
+      internalID: -8108971953657418393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 152
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe98abb23377730800000000000000
+      internalID: 3996719457220816757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 108
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa37a2cb48887a50800000000000000
+      internalID: 6519110319588457215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_53
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 106
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad851af5b1612550800000000000000
+      internalID: 6134291601668017571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_54
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 107
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364825fc89f0ecbd0800000000000000
+      internalID: -2608129985213201309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 104
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c113bf3ca9a247760800000000000000
+      internalID: 7454630127406362908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806ea10b1e89e5db0800000000000000
+      internalID: -4801232057640753656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 104
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e866dccafb46119a0800000000000000
+      internalID: -6264114832294975858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 106
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f05cb0e2348ba80800000000000000
+      internalID: -8450930835715715214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_59
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 105
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4367a88153de950800000000000000
+      internalID: 6479893818374501567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_60
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 105
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8b8d1d50a95e2c0800000000000000
+      internalID: -4402943710898636633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_61
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 104
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64d41b99f468df50800000000000000
+      internalID: 6906381051784123499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_62
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 104
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8de1206253183c30800000000000000
+      internalID: 4339239485492555147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_63
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 104
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc254cbf00fb7e70800000000000000
+      internalID: 9114142221288156364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_64
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 124
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486336b3dd1f79d80800000000000000
+      internalID: -8243854660391979388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_65
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 104
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d9c2376bd30b7260800000000000000
+      internalID: 7096269878716451286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 106
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d26cf34fc8ae060800000000000000
+      internalID: 6983549152861236592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_67
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 106
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74614765a4b627fd0800000000000000
+      internalID: -2345694488884406713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_68
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 106
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6954b96500dd2280800000000000000
+      internalID: -9066361753160099477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_69
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 104
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d979f76bdfbffe30800000000000000
+      internalID: 4539557898475895248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_70
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 104
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15826a1afa48b010800000000000000
+      internalID: 1204795338366551322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c53014e098c3060800000000000000
+      internalID: 6934568220557007943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 69
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c9ecdbb258d7c50800000000000000
+      internalID: 6664629446492724337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_73
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 69
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadd490b11d059da0800000000000000
+      internalID: -5938826163989979732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_74
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 69
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c36183217b898540800000000000000
+      internalID: 5010689378469635016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_75
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 69
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa14c4929eb48e070800000000000000
+      internalID: 8135836191637127599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_76
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41144aedce857630800000000000000
+      internalID: 3924199665373024591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_77
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 69
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141bf8a05a75c5ba0800000000000000
+      internalID: -6098903429008084671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_78
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 69
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634a402d5a1872cb0800000000000000
+      internalID: -4888796321294277578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_79
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 69
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8a98d7051223d30800000000000000
+      internalID: 4409623614736410801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_80
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 70
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6051277719b3d9e90800000000000000
+      internalID: -7017387148413102842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_81
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 70
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02655009eda8a7a50800000000000000
+      internalID: 6519676099075855904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_82
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 70
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd7dbd20cb2811c0800000000000000
+      internalID: -4532824920547295784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_83
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 70
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27d4db115dc26250800000000000000
+      internalID: 5936533007070713647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 69
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c962f7f71d9837a0800000000000000
+      internalID: -6397190544410121788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_85
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 69
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cd5095e306056b0800000000000000
+      internalID: -5309638139772019587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_86
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 69
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85debaf92650793d0800000000000000
+      internalID: -3200083089079669416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_87
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 69
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4ac458b7f0c4f40800000000000000
+      internalID: 5713959050418103506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_88
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 86
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05920e4eb7de18960800000000000000
+      internalID: 7602618762354764112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_89
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 70
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9b6233a7fdae2d0800000000000000
+      internalID: -3248538465257211441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_90
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 69
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b19a05cf8b9230800000000000000
+      internalID: 3646666399735199876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_91
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 68
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30ff306ea82418c0800000000000000
+      internalID: -4029551037185527745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_92
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 71
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b587b02c91adae580800000000000000
+      internalID: -8796979117950273445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_93
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 70
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca8b948b0ad865c0800000000000000
+      internalID: -4221884907655558460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f412d5584e634910800000000000000
+      internalID: 1820419931344344304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_95
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 34
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1bd60d087772ce0800000000000000
+      internalID: -1430042961530474063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_96
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 33
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac67b7495df80cc30800000000000000
+      internalID: 4377656985286047434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd886318737906620800000000000000
+      internalID: 2765376435852314843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_98
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 35
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31823b0b0e9674010800000000000000
+      internalID: 1173022641711425555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_99
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 34
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89b38cf3f7d86770800000000000000
+      internalID: 8604364531004848525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ARIMA_BATTLE_SPRITES_100
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 33
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5ce3fc7a5439cc0800000000000000
+      internalID: -3705541481356933720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
