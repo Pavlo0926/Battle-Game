@@ -1,0 +1,1784 @@
+fileFormatVersion: 2
+guid: 5addab437c91248a6a0865ce5822f9b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7187680368923646649
+    second: HUGO_BATTLE_SPRITES_0
+  - first:
+      213: -2650869476505729261
+    second: HUGO_BATTLE_SPRITES_1
+  - first:
+      213: -8487139884589911498
+    second: HUGO_BATTLE_SPRITES_2
+  - first:
+      213: -6122749651757604373
+    second: HUGO_BATTLE_SPRITES_3
+  - first:
+      213: -7362162763625273635
+    second: HUGO_BATTLE_SPRITES_4
+  - first:
+      213: -6421798549385057425
+    second: HUGO_BATTLE_SPRITES_5
+  - first:
+      213: -1894954886726043848
+    second: HUGO_BATTLE_SPRITES_6
+  - first:
+      213: -1069243006153122529
+    second: HUGO_BATTLE_SPRITES_7
+  - first:
+      213: 9164199725937855572
+    second: HUGO_BATTLE_SPRITES_8
+  - first:
+      213: -3851263689188880303
+    second: HUGO_BATTLE_SPRITES_9
+  - first:
+      213: -6122715497546916654
+    second: HUGO_BATTLE_SPRITES_10
+  - first:
+      213: -8371461177456341447
+    second: HUGO_BATTLE_SPRITES_11
+  - first:
+      213: -4770087087253256532
+    second: HUGO_BATTLE_SPRITES_12
+  - first:
+      213: -5279910341873764539
+    second: HUGO_BATTLE_SPRITES_13
+  - first:
+      213: -315661793215086421
+    second: HUGO_BATTLE_SPRITES_14
+  - first:
+      213: -8671349695892924925
+    second: HUGO_BATTLE_SPRITES_15
+  - first:
+      213: 6921093837595329193
+    second: HUGO_BATTLE_SPRITES_16
+  - first:
+      213: -8219493309376998201
+    second: HUGO_BATTLE_SPRITES_17
+  - first:
+      213: 985560400274552668
+    second: HUGO_BATTLE_SPRITES_18
+  - first:
+      213: -6950719224284200757
+    second: HUGO_BATTLE_SPRITES_19
+  - first:
+      213: 4049720717787203965
+    second: HUGO_BATTLE_SPRITES_20
+  - first:
+      213: -4269795866571215531
+    second: HUGO_BATTLE_SPRITES_21
+  - first:
+      213: 8428974975425323250
+    second: HUGO_BATTLE_SPRITES_22
+  - first:
+      213: -3748465394648525092
+    second: HUGO_BATTLE_SPRITES_23
+  - first:
+      213: 8948166924484290566
+    second: HUGO_BATTLE_SPRITES_24
+  - first:
+      213: 2784612815655588733
+    second: HUGO_BATTLE_SPRITES_25
+  - first:
+      213: -3366050615911741985
+    second: HUGO_BATTLE_SPRITES_26
+  - first:
+      213: 3588238574441847315
+    second: HUGO_BATTLE_SPRITES_27
+  - first:
+      213: -3639407693195205388
+    second: HUGO_BATTLE_SPRITES_28
+  - first:
+      213: -7192426715724217670
+    second: HUGO_BATTLE_SPRITES_29
+  - first:
+      213: -6455393153847640200
+    second: HUGO_BATTLE_SPRITES_30
+  - first:
+      213: -7333043666463826171
+    second: HUGO_BATTLE_SPRITES_31
+  - first:
+      213: -2530017266100197330
+    second: HUGO_BATTLE_SPRITES_32
+  - first:
+      213: -2270466923637561322
+    second: HUGO_BATTLE_SPRITES_33
+  - first:
+      213: 3953722163249325737
+    second: HUGO_BATTLE_SPRITES_34
+  - first:
+      213: -1743311772041560926
+    second: HUGO_BATTLE_SPRITES_35
+  - first:
+      213: -1798180654376027180
+    second: HUGO_BATTLE_SPRITES_36
+  - first:
+      213: 3309399405789077601
+    second: HUGO_BATTLE_SPRITES_37
+  - first:
+      213: -6138765360156696360
+    second: HUGO_BATTLE_SPRITES_38
+  - first:
+      213: -8714621554320182636
+    second: HUGO_BATTLE_SPRITES_39
+  - first:
+      213: -6424488565049460544
+    second: HUGO_BATTLE_SPRITES_40
+  - first:
+      213: 4342899036187200926
+    second: HUGO_BATTLE_SPRITES_41
+  - first:
+      213: 6019082263916047308
+    second: HUGO_BATTLE_SPRITES_42
+  - first:
+      213: 1908730137631381914
+    second: HUGO_BATTLE_SPRITES_43
+  - first:
+      213: -1548197755224472651
+    second: HUGO_BATTLE_SPRITES_44
+  - first:
+      213: -5517663799065386630
+    second: HUGO_BATTLE_SPRITES_45
+  - first:
+      213: 7023372319758371120
+    second: HUGO_BATTLE_SPRITES_46
+  - first:
+      213: 3907370755866793596
+    second: HUGO_BATTLE_SPRITES_47
+  - first:
+      213: 6709621338887444245
+    second: HUGO_BATTLE_SPRITES_48
+  - first:
+      213: 6601465881815626533
+    second: HUGO_BATTLE_SPRITES_49
+  - first:
+      213: 4723318877602291033
+    second: HUGO_BATTLE_SPRITES_50
+  - first:
+      213: 7759583131000678046
+    second: HUGO_BATTLE_SPRITES_51
+  - first:
+      213: 1353496203823703059
+    second: HUGO_BATTLE_SPRITES_52
+  - first:
+      213: 2017695217568948751
+    second: HUGO_BATTLE_SPRITES_53
+  - first:
+      213: 1119287183485105453
+    second: HUGO_BATTLE_SPRITES_54
+  - first:
+      213: 1362608358734316538
+    second: HUGO_BATTLE_SPRITES_55
+  - first:
+      213: -9190964562881772146
+    second: HUGO_BATTLE_SPRITES_56
+  - first:
+      213: -3899561903840989813
+    second: HUGO_BATTLE_SPRITES_57
+  - first:
+      213: -8739702206721345864
+    second: HUGO_BATTLE_SPRITES_58
+  - first:
+      213: 1698525019534751196
+    second: HUGO_BATTLE_SPRITES_59
+  - first:
+      213: -7135129421457594702
+    second: HUGO_BATTLE_SPRITES_60
+  - first:
+      213: -7172332188372607795
+    second: HUGO_BATTLE_SPRITES_61
+  - first:
+      213: -3915000540030611414
+    second: HUGO_BATTLE_SPRITES_62
+  - first:
+      213: 2858237834820931964
+    second: HUGO_BATTLE_SPRITES_63
+  - first:
+      213: -4661383347462613083
+    second: HUGO_BATTLE_SPRITES_64
+  - first:
+      213: -6420478753889306505
+    second: HUGO_BATTLE_SPRITES_65
+  - first:
+      213: -568209092357990767
+    second: HUGO_BATTLE_SPRITES_66
+  - first:
+      213: 5372413967782901541
+    second: HUGO_BATTLE_SPRITES_67
+  - first:
+      213: 394166083098753105
+    second: HUGO_BATTLE_SPRITES_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 221
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba1ebca635cfb360800000000000000
+      internalID: 7187680368923646649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 221
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31743fa8148363bd0800000000000000
+      internalID: -2650869476505729261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 221
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632f7f3ed3f973a80800000000000000
+      internalID: -8487139884589911498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 220
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be16756a1af970ba0800000000000000
+      internalID: -6122749651757604373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 222
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6e18f09f754d990800000000000000
+      internalID: -7362162763625273635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 224
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6be8c45e3031e6a0800000000000000
+      internalID: -6421798549385057425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 224
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837bd470294c3b5e0800000000000000
+      internalID: -1894954886726043848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 225
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d1ca7a6294921f0800000000000000
+      internalID: -1069243006153122529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_8
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 225
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c0243c817cd2f70800000000000000
+      internalID: 9164199725937855572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 224
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150598d54109d8ac0800000000000000
+      internalID: -3851263689188880303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 222
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcdfebc1beb70ba0800000000000000
+      internalID: -6122715497546916654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 223
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ecdbab96892db80800000000000000
+      internalID: -8371461177456341447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_12
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 228
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca68790311f3dcdb0800000000000000
+      internalID: -4770087087253256532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 220
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547f3baa48df9b6b0800000000000000
+      internalID: -5279910341873764539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_14
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 220
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba08042854b8e9bf0800000000000000
+      internalID: -315661793215086421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_15
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 228
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3065c15f46d29a780800000000000000
+      internalID: -8671349695892924925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 228
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c30ffc2aac0060800000000000000
+      internalID: 6921093837595329193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 222
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c452e4426e7eed80800000000000000
+      internalID: -8219493309376998201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 213
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c577e0b56f96dad00800000000000000
+      internalID: 985560400274552668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_19
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 224
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0cf0721b51a8f90800000000000000
+      internalID: -6950719224284200757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_20
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 225
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d790f37598f733830800000000000000
+      internalID: 4049720717787203965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d679d1843aeb4c0800000000000000
+      internalID: -4269795866571215531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 181
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f022eed41cb9f470800000000000000
+      internalID: 8428974975425323250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 179
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd651237596cafbc0800000000000000
+      internalID: -3748465394648525092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 179
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60829cc88664e2c70800000000000000
+      internalID: 8948166924484290566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 174
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73d6223a9ee4a620800000000000000
+      internalID: 2784612815655588733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 181
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd588968cc26941d0800000000000000
+      internalID: -3366050615911741985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 182
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ad5fed8fbfbc130800000000000000
+      internalID: 3588238574441847315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 182
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4a6464cf93e7dc0800000000000000
+      internalID: -3639407693195205388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_29
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 181
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28a38520e5f2c90800000000000000
+      internalID: -7192426715724217670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_30
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 179
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f3c63f026d966a0800000000000000
+      internalID: -6455393153847640200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_31
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 180
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fdef133abcb3a90800000000000000
+      internalID: -7333043666463826171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_32
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 180
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282e7a73b293ecd0800000000000000
+      internalID: -2530017266100197330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_33
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 180
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6182f46cc5ead70e0800000000000000
+      internalID: -2270466923637561322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_34
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 180
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6a0191c517ed630800000000000000
+      internalID: 3953722163249325737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_35
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 179
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acb4b60e238ec7e0800000000000000
+      internalID: -1743311772041560926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_36
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 177
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbffe5d8349b07e0800000000000000
+      internalID: -1798180654376027180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 159
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16062f1c9395ded20800000000000000
+      internalID: 3309399405789077601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_38
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 141
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d02364fd69becaa0800000000000000
+      internalID: -6138765360156696360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_39
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 140
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49278ce4ed17f0780800000000000000
+      internalID: -8714621554320182636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_40
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 140
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8faa040b1a7d6a0800000000000000
+      internalID: -6424488565049460544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 140
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d035be9a3154c30800000000000000
+      internalID: 4342899036187200926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 138
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbe196bd63188350800000000000000
+      internalID: 6019082263916047308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 138
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99d99182fb2d7a10800000000000000
+      internalID: 1908730137631381914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_44
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c9c52852b38ae0800000000000000
+      internalID: -1548197755224472651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_45
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 138
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71eca232025d63b0800000000000000
+      internalID: -5517663799065386630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0394284d9e7087160800000000000000
+      internalID: 7023372319758371120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_47
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7690351005c93630800000000000000
+      internalID: 3907370755866793596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_48
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51754c10f0d5d1d50800000000000000
+      internalID: 6709621338887444245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_49
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5233b725e3e1d9b50800000000000000
+      internalID: 6601465881815626533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_50
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d91647e799c8140800000000000000
+      internalID: 4723318877602291033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_51
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 138
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96a860eeb39fab60800000000000000
+      internalID: 7759583131000678046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_52
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 138
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31460c150a598c210800000000000000
+      internalID: 1353496203823703059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_53
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 139
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02a3343c1b400c10800000000000000
+      internalID: 2017695217568948751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_54
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 138
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f64d53c1888f00800000000000000
+      internalID: 1119287183485105453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_55
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 138
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af346563515f8e210800000000000000
+      internalID: 1362608358734316538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_56
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 158
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858a360d62237080800000000000000
+      internalID: -9190964562881772146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_57
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 139
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d69e5fb19f1e9c0800000000000000
+      internalID: -3899561903840989813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_58
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 138
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b63dadd52756b680800000000000000
+      internalID: -8739702206721345864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_59
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 137
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd57b7f818f529710800000000000000
+      internalID: 1698525019534751196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 103
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6e49f389deafc90800000000000000
+      internalID: -7135129421457594702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 102
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc53f410e1c67c90800000000000000
+      internalID: -7172332188372607795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_62
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 101
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20530c50cf1ba9c0800000000000000
+      internalID: -3915000540030611414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_63
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 102
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71551cca208aa720800000000000000
+      internalID: 2858237834820931964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_64
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 101
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7d194ea807f4fb0800000000000000
+      internalID: -4661383347462613083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_65
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 100
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7783c7a2790e5e6a0800000000000000
+      internalID: -6420478753889306505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_66
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 103
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196dadb47d05d18f0800000000000000
+      internalID: -568209092357990767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_67
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 102
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527fb081a06ae8a40800000000000000
+      internalID: 5372413967782901541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HUGO_BATTLE_SPRITES_68
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 101
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158bb95d6fb587500800000000000000
+      internalID: 394166083098753105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
